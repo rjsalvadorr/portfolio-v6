@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `portfolio - RJ Salvador`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `RJ Salvador`,
+      summary: `Web Developer / Architectural Technologist from Toronto, ON`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `RJ Salvador's Portfolio`,
+    siteUrl: `https://rjsalvadorr.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `flapsnacc`,
     },
   },
   plugins: [
