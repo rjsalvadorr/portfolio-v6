@@ -5,7 +5,7 @@ const Card = ({ post }) => {
   const title = post.frontmatter.title || post.fields.slug;
 
   return (
-    <div className="card">
+    <div className="card util-layout-bg3">
       <article
         className="post-list-item"
         itemScope

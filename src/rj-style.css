@@ -1,0 +1,57 @@
+/* ----------
+CSS Custom Properties Definitions -- 2nd layer
+
+This stylesheet relates to new components and
+overrides the 1st layer from "style.css".
+---------- */
+
+/*/////  OVERRIDES  /////*/
+
+.global-wrapper {
+  max-width: 360px;
+  padding: 8px;
+}
+
+
+
+/*/////  CUSTOM CLASSES  /////*/
+
+.header-content {
+  display: flex;
+}
+.header-icon-wrapper {
+  flex: 0 0 48px;
+}
+.header-text-wrapper {
+  flex: 1 1 auto;
+}
+
+
+.nav-btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+.navigation-button {
+  flex: 0 0 auto;
+}
+
+
+
+/*/////  UTILITY CLASSES FOR DEVELOPER CONVENIENCE  /////*/
+
+
+.util-layout-bg {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.util-layout-bg1 {
+  background-color: rgba(0, 0, 255, 0.1);
+}
+
+.util-layout-bg2 {
+  background-color: rgba(255, 0, 0, 0.1);
+}
+
+.util-layout-bg3 {
+  background-color: rgba(0, 255, 0, 0.1);
+}

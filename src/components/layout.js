@@ -7,16 +7,16 @@ const Layout = ({ location, title, children }) => {
   const isRootPath = location.pathname === rootPath
 
   return (
-    <div className="global-wrapper" data-is-root-path={isRootPath}>
+    <div className="global-wrapper util-layout-bg" data-is-root-path={isRootPath}>
 
       <div className="main-background">
         <div className="overlay"></div>
         <div className="effect"></div>
       </div>
 
-      <div className="main-layout">
+      <div className="main-layout util-layout-bg1">
         <Header />
-        <main>
+        <main className="util-layout-bg2">
           {children}
         </main>
         <Footer />

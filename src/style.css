@@ -1,4 +1,8 @@
-/* CSS Custom Properties Definitions */
+/* ----------
+CSS Custom Properties Definitions -- 1st layer
+
+This code came from the starter theme.
+---------- */
 
 :root {
   --maxWidth-none: "none";
