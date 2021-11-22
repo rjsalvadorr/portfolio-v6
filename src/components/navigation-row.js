@@ -5,13 +5,13 @@ import NavigationButton from "./navigation-button"
 const NavigationRow = () => (
   <div className="navigation-row">
     <div className="nav-btn-container">
-      <NavigationButton />
-      <NavigationButton />
-      <NavigationButton />
-      <NavigationButton />
-      <NavigationButton />
-      <NavigationButton />
-      <NavigationButton />
+      <NavigationButton buttonId="home" buttonType="link" />
+      <NavigationButton buttonId="about" buttonType="link" />
+      <NavigationButton buttonId="cv" buttonType="link" />
+      <NavigationButton buttonId="" buttonType="" />
+      <NavigationButton buttonId="" buttonType="" />
+      <NavigationButton buttonId="left" buttonType="ui" />
+      <NavigationButton buttonId="right" buttonType="ui" />
     </div>
   </div>
 );
