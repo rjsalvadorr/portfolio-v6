@@ -5,6 +5,8 @@ This stylesheet relates to new components and
 overrides the 1st layer from "style.css".
 ---------- */
 
+
+
 /*/////  OVERRIDES  /////*/
 
 .global-wrapper {
@@ -13,6 +15,7 @@ overrides the 1st layer from "style.css".
   margin: 0;
   max-width: auto;
   padding: 0;
+  background-color: #668;
 }
 
 .post-list-item {
@@ -21,15 +24,23 @@ overrides the 1st layer from "style.css".
 }
 
 article.blog-post {
-  padding: 24px 0;
+  padding: 16px 12px;
   margin: 0;
+  background-color: rgba(0, 0, 0, 0.1);
 }
+nav.blog-post-nav {
+  padding: 0 12px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
 
 /*/////  CUSTOM CLASSES  /////*/
 
 .main-layout {
   max-width: 360px;
-  padding: 8px;
+  padding: 0 8px;
+  margin: 0 auto;
 }
 
 
@@ -37,7 +48,9 @@ article.blog-post {
   margin-bottom: 8px;
 }
 .header-content {
+  padding: 8px 0;
   display: flex;
+  height: 64px;
 }
 .header-icon-wrapper {
   flex: 0 0 calc(48px + 8px);
@@ -54,7 +67,14 @@ article.blog-post {
 }
 
 
+.navigation-row {
+  background-color: rgba(0, 0, 0, 0.2);
+  position: relative;
+  padding: 4px 0;
+}
+
 .nav-btn-container {
+  height: 32px;
   display: flex;
   justify-content: space-between;
 }
@@ -74,6 +94,36 @@ article.blog-post {
   height: 229px;
   width: 344px;
   margin: 0 0 8px 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+
+.card .card-image {
+  height: 229px;
+  width: 344px;
+}
+
+.card .card-image-wrapper,
+.card .card-content {
+  position: absolute;
+}
+
+.card .card-content {
+  width: 66%;
+  right: 0;
+  bottom: 0;
+  font-size: 0.8rem;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 8px;
+}
+
+.card header,
+.card h2 {
+  margin-bottom: 8px;
+}
+
+.card h2 {
+  font-size: 1.5rem;
 }
 
 
@@ -84,8 +134,9 @@ article.blog-post {
   margin: 16px 0;
 }
 
-/*/////  UTILITY CLASSES FOR DEVELOPER CONVENIENCE  /////*/
 
+
+/*/////  UTILITY CLASSES FOR DEVELOPER CONVENIENCE  /////*/
 
 .util-layout-bg {
   background-color: rgba(0, 0, 0, 0.2);

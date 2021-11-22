@@ -1,13 +1,18 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
+import cardPlaceholderImg from "../images/kitty-1.jpg"
+
 const Card = ({ post }) => {
   const title = post.frontmatter.title || post.fields.slug;
 
   return (
-    <div className="card util-layout-bg3">
+    <div className="card">
+      <div className="card-image-wrapper">
+        <img className="card-image" src={cardPlaceholderImg} alt="navigation icon" />
+      </div>
       <article
-        className="post-list-item"
+        className="post-list-item card-content"
         itemScope
         itemType="http://schema.org/Article"
       >
@@ -17,7 +22,6 @@ const Card = ({ post }) => {
               <span itemProp="headline">{title}</span>
             </Link>
           </h2>
-          <small>{post.frontmatter.date}</small>
         </header>
         <section>
           <p
