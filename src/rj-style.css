@@ -38,14 +38,18 @@ nav.blog-post-nav {
 /*/////  CUSTOM CLASSES  /////*/
 
 .main-layout {
-  max-width: 360px;
-  padding: 0 8px;
-  margin: 0 auto;
+  padding: 0;
+  margin: 0;
 }
 
 
 .main-layout > .header {
   margin-bottom: 8px;
+}
+.main-layout .header-container {
+  max-width: 360px;
+  margin: 0 auto;
+  padding: 0 8px;
 }
 .header-content {
   padding: 8px 0;
@@ -83,6 +87,12 @@ nav.blog-post-nav {
 }
 .navigation-icon {
   width: 32px;
+}
+
+.main-container {
+  max-width: 360px;
+  margin: 0 auto;
+  padding: 0 8px;
 }
 
 .home-feed {
@@ -129,6 +139,11 @@ nav.blog-post-nav {
 
 .main-layout > .footer {
   margin-top: 8px;
+}
+.main-layout .footer-container {
+  max-width: 360px;
+  margin: 0 auto;
+  padding: 0 8px;
 }
 .footer-text-wrapper {
   margin: 16px 0;
