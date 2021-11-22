@@ -5,6 +5,7 @@ import iconPlacholderDark from "../images/icon-placeholder-dark.png"
 
 const Header = () => (
   <div className="header">
+    <div className="header-nav-background"></div>
     <div className="header-container">
       <div className="header-content">
         <div className="header-icon-wrapper">
