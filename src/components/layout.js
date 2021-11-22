@@ -16,9 +16,11 @@ const Layout = ({ location, title, children }) => {
 
       <div className="main-layout">
         <Header />
-        <main className="main-container">
-          {children}
-        </main>
+        <div className="main-wrapper">
+          <main className="main-container">
+            {children}
+          </main>
+        </div>
         <Footer />
         <div className="overlay"></div>
         <div className="effect"></div>

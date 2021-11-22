@@ -4,7 +4,6 @@ import NavigationRow from "./navigation-row"
 
 const Footer = () => (
   <div className="footer">
-    <div className="footer-background"></div>
     <div className="footer-container">
       <NavigationRow />
       <div className="footer-text-wrapper">
