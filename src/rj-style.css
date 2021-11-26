@@ -35,11 +35,11 @@ overrides the 1st layer from "style.css".
 article.blog-post {
   padding: 16px 12px;
   margin: 0;
-  background-color: var(--color-post-content-blastoise);
+  /* background-color: var(--color-post-content-blastoise); */
 }
 nav.blog-post-nav {
   padding: 0 12px;
-  background-color: var(--color-post-content-blastoise);
+  /* background-color: var(--color-post-content-blastoise); */
 }
 .blog-post .blog-post-title{
   color: var(--color-highlight-blastoise);
@@ -68,7 +68,7 @@ a {
 /*/////  CUSTOM CLASSES  /////*/
 
 :root {
-  --color-header-blastoise: rgba(0, 0, 0, 0.125);
+  --color-header-blastoise: rgba(0, 0, 0, 0.25);
   --color-post-content-blastoise: rgba(74, 74, 74, 0.92);
   --color-highlight-blastoise: #D5AC4A;
 }
@@ -91,14 +91,22 @@ a {
   padding: 0;
 }
 
+.page-title {
+  color: var(--color-highlight-blastoise);
+}
+
+
 
 .main-layout > .header {
   margin-bottom: 8px;
   background-color: #083962;
+  background-image: url("images/backgrounds/noisy-grid-dark.png");
+  background-repeat: repeat;
+  border-bottom: 2px white dashed;
 }
 .header .header-nav-background {
   width: 100%;
-  height: 40px;
+  height: 32px;
   background-color: var(--color-header-blastoise);
   position: absolute;
   top: 64px;
@@ -146,6 +154,9 @@ a {
 .navigation-button {
   flex: 0 0 24px;
 }
+.navigation-button.disabled {
+  opacity: 0.17;
+}
 .navigation-icon {
   width: 24px;
 }
@@ -173,6 +184,8 @@ a {
   bottom: 0;
   font-size: 0.8rem;
   background-color: var(--color-post-content-blastoise);
+  background-image: url("images/backgrounds/buried.png");
+  background-repeat: repeat;
   padding: 12px;
 }
 .card header,
@@ -196,6 +209,9 @@ a {
   margin-top: 8px;
   padding: 0 0 4px 0;
   background-color: #083962;
+  background-image: url("images/backgrounds/noisy-grid-dark.png");
+  background-repeat: repeat;
+  border-top: 2px white dashed;
   position: relative;
 }
 .footer .footer-nav-background {
@@ -213,7 +229,8 @@ a {
   margin: 16px 0;
 }
 .footer .footer-text {
-  font-size: 1rem;
+  font-size: 0.8rem;
+  line-height: 1;
 }
 
 

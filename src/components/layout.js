@@ -2,9 +2,10 @@ import * as React from "react"
 import Header from "./header"
 import Footer from "./footer"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, children, className }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
+  console.log(location, title, children, className);
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
@@ -14,7 +15,7 @@ const Layout = ({ location, title, children }) => {
         <div className="effect"></div>
       </div>
 
-      <div className="main-layout">
+      <div className={`main-layout ${className}`}>
         <Header />
         <div className="main-wrapper">
           <main className="main-container">

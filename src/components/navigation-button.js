@@ -37,13 +37,14 @@ const getIcon = (buttonId) => {
   return iconMap[buttonId]
 }
 
-const NavigationButton = ({ buttonType, buttonId }) => {
+const NavigationButton = ({ buttonType, buttonId, isActive }) => {
+  const classMod = isActive ? 'active' : 'disabled';
 
   if(!!buttonId) {
     if(buttonType === 'link') {
       return (
         <Link to={getLink(buttonId)} itemProp="url">
-          <div className="navigation-button">
+          <div className={`navigation-button ${classMod}`}>
             <div className="navigation-icon-wrapper">
               <img className="navigation-icon" src={getIcon(buttonId)} alt="navigation icon" />
             </div>
@@ -54,7 +55,7 @@ const NavigationButton = ({ buttonType, buttonId }) => {
   
     if(buttonType === 'ui') {
       return ( 
-        <div className="navigation-button">
+        <div className={`navigation-button ${classMod}`}>
           <div className="navigation-icon-wrapper">
             <img className="navigation-icon" src={getIcon(buttonId)} alt="navigation icon" />
           </div>
@@ -64,7 +65,7 @@ const NavigationButton = ({ buttonType, buttonId }) => {
   }
 
   return (
-    <div className="navigation-button">
+    <div className={`navigation-button ${classMod}`}>
       <div className="navigation-icon-wrapper">
       </div>
     </div>
