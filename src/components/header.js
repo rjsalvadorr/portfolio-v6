@@ -3,7 +3,7 @@ import * as React from "react"
 import NavigationRow from "./navigation-row"
 import headerIcon from "../images/icons/merlion-light-64px.png"
 
-const Header = () => (
+const Header = ({ isHome, isPost }) => (
   <div className="header">
     <div className="header-nav-background"></div>
     <div className="header-container">
@@ -16,7 +16,7 @@ const Header = () => (
           <span className="header-text">Web developer, designer</span>
         </div>
       </div>
-      <NavigationRow />
+      <NavigationRow isHome={isHome} isPost={isPost}/>
     </div>
   </div>
 );

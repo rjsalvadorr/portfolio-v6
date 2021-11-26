@@ -2,7 +2,7 @@ import * as React from "react"
 
 import NavigationRow from "./navigation-row"
 
-const Footer = () => (
+const Footer = ({ isHome, isPost }) => (
   <div className="footer">
     <div className="footer-nav-background"></div>
     <div className="footer-container">

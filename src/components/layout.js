@@ -2,9 +2,10 @@ import * as React from "react"
 import Header from "./header"
 import Footer from "./footer"
 
-const Layout = ({ location, title, children, className }) => {
+const Layout = ({ location, title, children, className, isPost }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
+
   console.log(location, title, children, className);
 
   return (
@@ -16,13 +17,13 @@ const Layout = ({ location, title, children, className }) => {
       </div>
 
       <div className={`main-layout ${className}`}>
-        <Header />
+        <Header isHome={isRootPath} isPost={isPost}/>
         <div className="main-wrapper">
           <main className="main-container">
             {children}
           </main>
         </div>
-        <Footer />
+        <Footer isHome={isRootPath} isPost={isPost}/>
         <div className="overlay"></div>
         <div className="effect"></div>
       </div>
