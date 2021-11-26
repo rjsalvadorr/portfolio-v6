@@ -12,9 +12,8 @@ const Header = () => (
           <img className="header-icon" src={iconPlacholderDark} alt="header icon" />
         </div>
         <div className="header-text-wrapper">
-          <span className="header-text">
-            Leverage agile frameworks to provide a robust synopsis for high level overviews.
-          </span>
+          <h4 className="header-title">RJ Salvador</h4>
+          <span className="header-text">Web developer, designer</span>
         </div>
       </div>
       <NavigationRow />
