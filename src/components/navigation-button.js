@@ -1,7 +1,11 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-import iconPlacholderDark from "../images/icon-placeholder-dark.png"
+import iconHome from "../images/icons/feather/home.svg"
+import iconAbout from "../images/icons/feather/user.svg"
+import iconCv from "../images/icons/feather/file-text.svg"
+import iconLeft from "../images/icons/feather/chevron-left.svg"
+import iconRight from "../images/icons/feather/chevron-right.svg"
 
 const getLink = (buttonId) => {
   const linkMap = {
@@ -17,6 +21,22 @@ const getLink = (buttonId) => {
   return linkMap[buttonId]
 }
 
+const getIcon = (buttonId) => {
+  const iconMap = {
+    'home': iconHome,
+    'about':  iconAbout,
+    'cv':  iconCv,
+    'left':  iconLeft,
+    'right':  iconRight,
+  }
+
+  if (!iconMap[buttonId]) {
+    return 'null'
+  }
+
+  return iconMap[buttonId]
+}
+
 const NavigationButton = ({ buttonType, buttonId }) => {
 
   if(!!buttonId) {
@@ -25,7 +45,7 @@ const NavigationButton = ({ buttonType, buttonId }) => {
         <Link to={getLink(buttonId)} itemProp="url">
           <div className="navigation-button">
             <div className="navigation-icon-wrapper">
-              <img className="navigation-icon" src={iconPlacholderDark} alt="navigation icon" />
+              <img className="navigation-icon" src={getIcon(buttonId)} alt="navigation icon" />
             </div>
           </div>
         </Link>
@@ -33,10 +53,10 @@ const NavigationButton = ({ buttonType, buttonId }) => {
     }
   
     if(buttonType === 'ui') {
-      return (
+      return ( 
         <div className="navigation-button">
           <div className="navigation-icon-wrapper">
-            <img className="navigation-icon" src={iconPlacholderDark} alt="navigation icon" />
+            <img className="navigation-icon" src={getIcon(buttonId)} alt="navigation icon" />
           </div>
         </div>
       )

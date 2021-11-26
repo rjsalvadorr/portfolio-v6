@@ -1,7 +1,7 @@
 import * as React from "react"
 
 import NavigationRow from "./navigation-row"
-import iconPlacholderDark from "../images/icon-placeholder-dark.png"
+import headerIcon from "../images/icons/merlion-light-64px.png"
 
 const Header = () => (
   <div className="header">
@@ -9,7 +9,7 @@ const Header = () => (
     <div className="header-container">
       <div className="header-content">
         <div className="header-icon-wrapper">
-          <img className="header-icon" src={iconPlacholderDark} alt="header icon" />
+          <img className="header-icon" src={headerIcon} alt="header icon" />
         </div>
         <div className="header-text-wrapper">
           <h4 className="header-title">RJ Salvador</h4>
