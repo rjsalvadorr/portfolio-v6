@@ -76,6 +76,7 @@ a {
   --space-unit-sm: calc(var(--space-unit) / 2);
   --space-unit-xs: calc(var(--space-unit) / 4);
 
+  --basic-line: 1px white solid;
   --max-width-xs: 360px;
 
   --header-icon-height: 72px;
@@ -100,7 +101,11 @@ a {
 }
 
 .home-feed {
-  padding: 0;
+  padding: var(--space-unit) 0;
+}
+/* removes bottom margin for last card in the home feed */
+.home-feed > div:last-of-type {
+  margin-bottom: 0;
 }
 
 .page-title {
@@ -114,11 +119,11 @@ a {
 
 
 .main-layout > .header {
-  margin-bottom: var(--space-unit);
+  /* margin-bottom: var(--space-unit); */
   background-color: #083962;
   background-image: url("images/backgrounds/noisy-grid-dark.png");
   background-repeat: repeat;
-  border-bottom: 1px white solid;
+  border-bottom: var(--basic-line);
 }
 .header .header-nav-background {
   width: 100%;
@@ -144,6 +149,7 @@ a {
   width: var(--header-icon-height);
 }
 .header-text-wrapper {
+  padding-top: var(--space-unit-sm);
   flex: 1 1 auto;
 }
 .header-title {
@@ -186,22 +192,21 @@ a {
 
 
 .card {
-  height: 229px;
-  width: 344px;
+  padding-bottom: 67%;
+  width: 100%;
   margin: 0 0 var(--space-unit) 0;
   background-color: rgba(0, 0, 0, 0.2);
   position: relative;
 }
 .card .card-image {
-  height: 229px;
-  width: 344px;
+  width: 100%;
 }
 .card .card-image-wrapper,
 .card .card-content {
   position: absolute;
 }
 .card .card-content {
-  width: 66%;
+  width: 67%;
   right: 0;
   bottom: 0;
   font-size: 0.8rem;
@@ -232,7 +237,7 @@ a {
   background-color: #083962;
   background-image: url("images/backgrounds/noisy-grid-dark.png");
   background-repeat: repeat;
-  border-top: 1px white solid;
+  border-top: var(--basic-line);
   position: relative;
 }
 .footer .footer-nav-background {
