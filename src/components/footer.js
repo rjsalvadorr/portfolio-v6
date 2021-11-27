@@ -1,15 +1,15 @@
 import * as React from "react"
 
-import NavigationRow from "./navigation-row"
+import NavigationToolbar from "./navigation-row"
 
 const Footer = ({ isHome, isPost }) => (
   <div className="footer">
     <div className="footer-nav-background"></div>
     <div className="footer-container">
-      <NavigationRow />
+      <NavigationToolbar />
       <div className="footer-text-wrapper">
           <span className="footer-text">
-            © RJ Salvador {new Date().getFullYear()}
+            © {new Date().getFullYear()} &nbsp;<span className="text-fade">//</span> &nbsp;R. J. Salvador
           </span>
       </div>
     </div>

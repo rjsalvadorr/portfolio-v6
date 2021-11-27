@@ -1,9 +1,9 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-import iconHome from "../images/icons/feather/home.svg"
-import iconAbout from "../images/icons/feather/user.svg"
-import iconCv from "../images/icons/feather/file-text.svg"
+import iconHome from "../images/icons/linea/basic_home.svg"
+import iconAbout from "../images/icons/line-icons/profile-male.svg"
+import iconCv from "../images/icons/line-icons/document.svg"
 import iconLeft from "../images/icons/feather/chevron-left.svg"
 import iconRight from "../images/icons/feather/chevron-right.svg"
 

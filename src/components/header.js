@@ -1,7 +1,7 @@
 import * as React from "react"
 
-import NavigationRow from "./navigation-row"
-import headerIcon from "../images/icons/merlion-v1.svg"
+import NavigationToolbar from "./navigation-row"
+import headerIcon from "../images/icons/pearl-v1.svg"
 
 const Header = ({ isHome, isPost }) => (
   <div className="header">
@@ -16,7 +16,7 @@ const Header = ({ isHome, isPost }) => (
           <span className="header-text">Web developer, designer</span>
         </div>
       </div>
-      <NavigationRow isHome={isHome} isPost={isPost}/>
+      <NavigationToolbar isHome={isHome} isPost={isPost}/>
     </div>
   </div>
 );
