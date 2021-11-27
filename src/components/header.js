@@ -1,7 +1,7 @@
 import * as React from "react"
 
 import NavigationRow from "./navigation-row"
-import headerIcon from "../images/icons/merlion-light-64px.png"
+import headerIcon from "../images/icons/merlion-v1.svg"
 
 const Header = ({ isHome, isPost }) => (
   <div className="header">
