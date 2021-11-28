@@ -7,14 +7,15 @@ category: code project
 tags:
   - "code project"
   - "music composition"
-thumbnail: media/code/autocomposer/thumb.png
-heroes:
-  - media/code/autocomposer/autocomposer-sketch-02.jpg
-  - media/code/autocomposer/snapshot.png
+thumbnail: media/autocomposer/thumb.png
 slug: "autocomposer"
 description: "Web app that automagically creates musical melodies"
 draft: false
 ---
+
+![yep yep yep](./autocomposer-sketch-02.jpg "yea")
+
+![yep yep yep](./snapshot.png "yea")
 
 I've always wanted to make software that did something with music. <!-- more --> That led me to play with JS libraries out there that can handle music theory, playback, and notation. Slowly, I started to think of ways to tie this all together to build an automatic music composer.
 

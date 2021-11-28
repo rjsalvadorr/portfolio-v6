@@ -7,16 +7,16 @@ category: code sketch
 tags:
   - "code sketch"
   - "threejs"
-thumbnail: media/code/sketch-5/thumb.jpg
+thumbnail: media/sketch-5/thumb.jpg
 options:
   - hideDesc
 slug: "sketch-5"
 draft: false
 ---
 
-<div class="threejs-viz-container">
+<div className="threejs-viz-container">
   <iframe id="sketch-5"
-      class="resp-iframe"
+      className="resp-iframe"
       title="sketch-5"
       src="/visualizations/viz-dynamic-grid"
       scrolling="no">

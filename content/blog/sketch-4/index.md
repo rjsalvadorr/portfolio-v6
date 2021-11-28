@@ -7,16 +7,16 @@ category: code sketch
 tags:
   - "code sketch"
   - "threejs"
-thumbnail: media/code/sketch-4/thumb.jpg
+thumbnail: media/sketch-4/thumb.jpg
 options:
   - hideDesc
 slug: "sketch-4"
 draft: false
 ---
 
-<div class="threejs-viz-container">
+<div className="threejs-viz-container">
   <iframe id="sketch-4"
-      class="resp-iframe"
+      className="resp-iframe"
       title="sketch-4"
       src="/visualizations/viz-three-city"
       scrolling="no">

@@ -7,13 +7,13 @@ category: art
 tags:
   - "painting"
   - "anime"
-thumbnail: media/artblog/sharingan/thumb.jpg
-heroes:
-  - media/artblog/sharingan/full.jpg
-  - media/artblog/sharingan/sasuke-table.jpg
+thumbnail: media/sharingan/thumb.jpg
 slug: "sharingan"
 draft: false
 ---
+
+![yep yep yep](./full.jpg "yea")
+![yep yep yep](./sasuke-table.jpg "yea")
 
 This painting series was inspired by the Naruto marathon I watched a few months ago.
 
@@ -36,8 +36,8 @@ They're all acrylic on canvas (24" x 12"), finished with semi-gloss varnish.
 1. Clean up mistakes
 1. Varnish (2 to 3 coats)
 
-![hrm](/media/artblog/sharingan/kakashi-process.gif)
+![hrm](./kakashi-process.gif)
 
-![hrm](/media/artblog/sharingan/itachi-process-2.gif)
+![hrm](./itachi-process-2.gif)
 
-![hrm](/media/artblog/sharingan/sasuke-process.gif)
+![hrm](./sasuke-process.gif)

@@ -7,16 +7,16 @@ category: code sketch
 tags:
   - "code sketch"
   - "threejs"
-thumbnail: media/code/sketch-7/thumb.jpg
+thumbnail: media/sketch-7/thumb.jpg
 options:
   - hideDesc
 slug: "sketch-7"
 draft: false
 ---
 
-<div class="threejs-viz-container">
+<div className="threejs-viz-container">
   <iframe id="sketch-7"
-      class="resp-iframe"
+      className="resp-iframe"
       title="sketch-7"
       src="/visualizations/viz-rising-pillars"
       scrolling="no">

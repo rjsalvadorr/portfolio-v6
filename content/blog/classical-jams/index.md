@@ -5,7 +5,7 @@ type: link
 category: music
 subtitle: Violin + guitar duo (2015)
 target_url: https://soundcloud.com/rj-salvador/sets/classical-jams
-thumbnail: media/code/sketch-7/thumb.jpg
+thumbnail: media/sketch-7/thumb.jpg
 options:
   - hideDate
 slug: "classical-jams"

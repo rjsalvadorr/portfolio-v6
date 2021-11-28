@@ -8,15 +8,15 @@ tags:
   - "code project"
   - "sports"
 target_url: /apps/rise-of-the-raptors/
-thumbnail: media/code/rise-of-the-raptors/thumb.jpg
-heroes:
-  - media/code/rise-of-the-raptors/demo.gif
+thumbnail: media/rise-of-the-raptors/thumb.jpg
 slug: "rise-of-the-raptors"
 description: "Infographics on the Toronto Raptors' path to a championship"
 draft: false
 ---
 
-2019 was a very special year for Toronto Raptors fans. After going to the championship parade, I decided to try and use data visualization to tell the story of the Raptors' path to a championship.
+![yep yep yep](./demo.gif "yea")
+
+2019 was a special year for Toronto Raptors fans. After going to the championship parade, I decided to try and use data visualization to tell the story of the Raptors' path to a championship.
 
 ## Tools/resources used
 

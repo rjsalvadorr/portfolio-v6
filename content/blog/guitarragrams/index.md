@@ -7,14 +7,15 @@ category: code project
 tags:
   - "code project"
   - "guitar"
-thumbnail: media/code/guitarragrams/snapshot.png
-heroes:
-  - media/code/guitarragrams/sketch-1.jpg
-  - media/code/guitarragrams/snapshot.png
+thumbnail: media/guitarragrams/snapshot.png
 slug: "guitarragrams"
 description: "Visual reference for guitar chord voicings"
 draft: false
 ---
+
+![yep yep yep](./sketch-1.jpg "yea")
+
+![yep yep yep](./snapshot.png "yea")
 
 Earlier this year, I was studying chord patterns and wrote them into a document.
 This was a PITA to update, so I made a web app out of it. <!-- more --> I took this opportunity to learn some tech, so I jumped on the Vue bandwagon. I found that the [Vue CLI tools](https://cli.vuejs.org/guide/creating-a-project.html) didn't get in my way,

@@ -18,14 +18,16 @@ const getRandomInt = max => {
 
 const Card = ({ post }) => {
   const title = post.frontmatter.title || post.fields.slug
-  const cardPlaceholderImg = placeholderMap[getRandomInt(3)]
+  // const cardPlaceholderImg = placeholderMap[getRandomInt(3)]
+  const cardImgPath = post.frontmatter.thumbnail
 
   return (
     <div className="card">
       <div className="card-image-wrapper">
         <img
           className="card-image"
-          src={cardPlaceholderImg}
+          // src={cardPlaceholderImg}
+          src={`/${cardImgPath}`}
           alt="navigation icon"
         />
       </div>

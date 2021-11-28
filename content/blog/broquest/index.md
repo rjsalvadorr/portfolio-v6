@@ -7,16 +7,17 @@ category: code project
 tags:
   - "code project"
   - "incomplete"
-thumbnail: media/code/broquest/thumb.jpg
-heroes:
-  - media/code/broquest/broquest-sketch-01.jpg
-  - media/code/broquest/broquest-01.jpg
+thumbnail: media/broquest/thumb.jpg
 options:
   - hideDate
 slug: "broquest"
 description: "Game dev attempts"
 draft: false
 ---
+
+![yep yep yep](./broquest-sketch-01.jpg "yep yep")
+
+![yep yep yep](./broquest-01.jpg "yep yep")
 
 Two brothers tried to make a Zelda-esque platformer, and they caught a glimpse of development hell.
 
@@ -51,11 +52,11 @@ Over a few weeks, I learned how to assemble all these elements together:
 1. Controls to let the player move and interact with world by opening things and slaying NPCs
 1. Primitive AI. Yeah, all these guys did is move towards my character in a straight line and attack if I'm close enough. But they were doing these things automatically
 
-![yep yep yep](/media/code/broquest/broquest-dead.jpg "yep yep")
+![yep yep yep](./broquest-dead.jpg "yep yep")
 
-![yep yep yep](/media/code/broquest/broquest-debug.jpg "yep yep")
+![yep yep yep](./broquest-debug.jpg "yep yep")
 
-![yep yep yep](/media/code/broquest/broquest-spritesheet.png "yep yep")
+![yep yep yep](./broquest-spritesheet.png "yep yep")
 
 ## Results
 

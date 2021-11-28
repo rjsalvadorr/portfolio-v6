@@ -7,7 +7,7 @@ category: code sketch
 tags:
   - "code sketch"
   - "threejs"
-thumbnail: media/code/sketch-6/thumb.jpg
+thumbnail: media/sketch-6/thumb.jpg
 options:
   - hideDesc
 slug: "sketch-6"
@@ -15,9 +15,9 @@ draft: false
 ---
 
 
-<div class="threejs-viz-container">
+<div className="threejs-viz-container">
   <iframe id="sketch-6"
-      class="resp-iframe"
+      className="resp-iframe"
       title="sketch-6"
       src="/visualizations/viz-broken-grid"
       scrolling="no">
