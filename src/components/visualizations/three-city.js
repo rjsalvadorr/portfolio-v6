@@ -13,7 +13,7 @@ class ThreeCity extends React.Component {
 
   render() {
     return (
-      <div className="three-city-wrapper-wrapper">
+      <div className="threejs-content-wrapper">
         <div
           className="three-city-wrapper"
           ref={this.cityRef}
@@ -23,7 +23,7 @@ class ThreeCity extends React.Component {
             right: 0,
             bottom: 0,
             left: 0,
-            zIndex: -200,
+            // zIndex: -200,
           }}
         />
       </div>

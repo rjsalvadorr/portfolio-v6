@@ -1,9 +1,17 @@
 import React from 'react';
 import {graphql} from 'gatsby';
 
-import Layout from '../../components/Layout';
+import Layout from '../../components/layout';
 import DynamicGrid from '../../components/visualizations/dynamic-grid';
-import vizStyles from '../../styles/visualizations.module.css';
+
+const featWrapStyle = {
+  position: 'absolute',
+  // zIndex: 1000,
+  top: 0,
+  right: 0,
+  bottom: 0,
+  left: 0,
+}
 
 class DynamicGridFeature extends React.Component {
   render () {
@@ -11,7 +19,7 @@ class DynamicGridFeature extends React.Component {
     const siteTitle = data.site.siteMetadata.title;
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <div className={vizStyles.featureWrapper}>
+        <div className="featureWrapper" style={featWrapStyle}>
           <DynamicGrid />
         </div>
       </Layout>

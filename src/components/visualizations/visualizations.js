@@ -3,7 +3,6 @@ import ThreeCity from "./three-city"
 import DynamicGrid from "./dynamic-grid"
 import RisingPillars from "./rising-pillars"
 import threeUtils from "./utils/three-utils"
-import vizStyles from "../../styles/visualizations.module.css"
 
 class Visualizations extends React.Component {
   constructor(props) {
@@ -80,8 +79,8 @@ class Visualizations extends React.Component {
   render() {
     let visual = <ThreeCity />
     let overlayClass = this.state.overlayOff
-      ? `${vizStyles.vizOverlay} ${vizStyles.vizOverlayOff}`
-      : `${vizStyles.vizOverlay}`
+      ? "vizOverlay vizOverlayOff"
+      : "vizOverlay"
 
     // switch (this.state.currentVisual) {
     //   case 2:
@@ -103,7 +102,7 @@ class Visualizations extends React.Component {
       <div>
         <div className={overlayClass} />
         <div
-          className={`${vizStyles.vizWrapper} visuals--${this.state.currentVisual}`}
+          className={`vizWrapper visuals--${this.state.currentVisual}`}
           ref={this.visualsRef}
         >
           {visual}

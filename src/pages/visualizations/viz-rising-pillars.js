@@ -1,9 +1,8 @@
 import React from 'react';
 import {graphql} from 'gatsby';
 
-import Layout from '../../components/Layout';
+import Layout from '../../components/layout';
 import RisingPillars from '../../components/visualizations/rising-pillars';
-import vizStyles from '../../styles/visualizations.module.css';
 
 class RisingPillarsFeature extends React.Component {
   render () {
@@ -11,7 +10,7 @@ class RisingPillarsFeature extends React.Component {
     const siteTitle = data.site.siteMetadata.title;
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <div className={vizStyles.featureWrapper}>
+        <div className="featureWrapper">
           <RisingPillars />
         </div>
       </Layout>

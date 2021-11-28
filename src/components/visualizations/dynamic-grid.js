@@ -1,7 +1,10 @@
 import React from "react"
 import DynamicGrid from "./utils/dynamic-grid"
 import { radialWave3 } from "./utils/wave-utils"
-import vizStyles from "../../styles/dynamic-grid.module.css"
+
+const DYN_DIAMETER = 24;
+const DYN_RADIUS = DYN_DIAMETER / 2;
+const DYN_UNIT_SIZE = DYN_DIAMETER * 1.5;
 
 class DynamicGridView extends React.Component {
   constructor(props) {
@@ -10,7 +13,7 @@ class DynamicGridView extends React.Component {
     this.initializeGrid = this.initializeGrid.bind(this)
     this.updateGridUnit = this.updateGridUnit.bind(this)
     this.intervalId = null
-    this.unitSize = 64
+    this.unitSize = DYN_UNIT_SIZE
     this.state = {
       grid: {},
     }
@@ -51,7 +54,7 @@ class DynamicGridView extends React.Component {
     element.style.opacity = gUnit.intensity1
 
     const inner = element.children[0]
-    const diameter = 48 * gUnit.intensity2
+    const diameter = DYN_DIAMETER * gUnit.intensity2
     inner.style.height = `${diameter}px`
     inner.style.width = `${diameter}px`
     inner.style.borderRadius = `${diameter / 2}px`
@@ -75,9 +78,34 @@ class DynamicGridView extends React.Component {
       }, 1000 / updateFrequency)
     }
 
+    const dynWrapStyle = {
+      position: 'absolute',
+      top: 0,
+      right: 0,
+      bottom: 0,
+      left: 0,
+      // zIndex: -200,
+      backgroundColor: '#3c0a00',
+    }
+
+    const dynamicUnitStyle = {
+      position: 'absolute',
+    }
+    
+    const dynamicInnerStyle = {
+      width: `${DYN_DIAMETER}px`,
+      height: `${DYN_DIAMETER}px`,
+      borderRadius: `${DYN_RADIUS}px`,
+      backgroundColor: '#651200',
+      position: 'relative',
+      top: `-${DYN_RADIUS}px`,
+      left: `-${DYN_RADIUS}px`,
+      zIndex: 31,
+    }
+
     return (
       <div className="dynamic-grid-wrapper-wrapper">
-        <div className={`${vizStyles.dynamicWrapper}`} ref={this.canvasRef}>
+        <div className="dynamicWrapper" ref={this.canvasRef} style={dynWrapStyle}>
           {this.state.grid.grid &&
             this.state.grid.grid.map((row, idx) => {
               return (
@@ -89,11 +117,13 @@ class DynamicGridView extends React.Component {
                     return (
                       <div
                         key={`unit--${idx}-${unitIdx}`}
-                        className={`grid-unit grid-unit--${unit.id} ${vizStyles.dynamicUnit}`}
+                        className={`grid-unit grid-unit--${unit.id} dynamicUnit`}
                         data-id={unit.id}
+                        style={dynamicUnitStyle}
                       >
                         <div
-                          className={`inner ${vizStyles.dynamicInner}`}
+                          className={`inner dynamicInner`}
+                          style={dynamicInnerStyle}
                         ></div>
                       </div>
                     )

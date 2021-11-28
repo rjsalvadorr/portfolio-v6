@@ -61,6 +61,10 @@ nav.blog-post-nav {
   text-decoration: none;
 }
 
+article.blog-post img {
+  max-width: 100%;
+}
+
 a {
   color: var(--color-highlight-blastoise);
 }
@@ -125,13 +129,17 @@ a {
 }
 
 .threejs-viz-container .resp-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
+  /* position: absolute; */
+  /* top: 0;
+  left: 0; */
   width: 100%;
   height: 100%;
   border: 0;
 }
+
+/* .threejs-content-wrapper {
+  position: relative;
+} */
 
 
 

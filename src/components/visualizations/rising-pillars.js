@@ -6,8 +6,6 @@ import utils from "./utils/three-utils"
 import FuzzyGrid from "./utils/fuzzy-grid"
 import { radialWave3 } from "./utils/wave-utils"
 
-import vizStyles from "../../styles/rising-pillars.module.css"
-
 class RisingPillars extends React.Component {
   constructor(props) {
     super(props)
@@ -16,9 +14,9 @@ class RisingPillars extends React.Component {
 
   render() {
     return (
-      <div className={`${vizStyles.wrapperClass}`}>
+      <div className="threejs-content-wrapper rising-pillars-wrapper">
         <div
-          className="rising-pillars-wrapper"
+          className="rising-pillars-container"
           ref={this.pillarsRef}
           style={{
             position: "absolute",
@@ -26,7 +24,7 @@ class RisingPillars extends React.Component {
             right: 0,
             bottom: 0,
             left: 0,
-            zIndex: -200,
+            // zIndex: -200,
           }}
         />
       </div>
