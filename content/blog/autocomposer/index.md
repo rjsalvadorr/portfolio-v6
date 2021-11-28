@@ -7,7 +7,7 @@ category: code project
 tags:
   - "code project"
   - "music composition"
-thumbnail: media/autocomposer/thumb.png
+thumbnail: media/autocomposer/thumb.jpg
 slug: "autocomposer"
 description: "Web app that automagically creates musical melodies"
 draft: false

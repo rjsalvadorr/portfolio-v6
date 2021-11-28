@@ -7,7 +7,7 @@ category: code project
 tags:
   - "code project"
   - "guitar"
-thumbnail: media/guitarragrams/snapshot.png
+thumbnail: media/guitarragrams/thumb.jpg
 slug: "guitarragrams"
 description: "Visual reference for guitar chord voicings"
 draft: false

@@ -39,7 +39,7 @@ const Card = ({ post }) => {
         <header>
           <h2>
             <Link to={post.fields.slug} itemProp="url">
-              <span itemProp="headline">{title}</span>
+              <span itemProp="headline" className="card-title">{title}</span>
             </Link>
           </h2>
         </header>

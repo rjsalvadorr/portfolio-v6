@@ -69,13 +69,16 @@ a {
 
 :root {
   --color-header-blastoise: rgba(0, 0, 0, 0.25);
-  --color-post-content-blastoise: rgba(74, 74, 74, 0.92);
+  --color-post-content-blastoise: rgba(74, 74, 74, 0.88);
   --color-highlight-blastoise: #D5AC4A;
   --color-bg-blastoise: #083962;
 
-  --space-unit: 16px;
+  --space-unit: 24px;
+  --space-unit-3q: calc(var(--space-unit) * 0.75);
   --space-unit-sm: calc(var(--space-unit) / 2);
   --space-unit-xs: calc(var(--space-unit) / 4);
+
+  --text-size-sm: 0.8rem;
 
   --basic-line: 1px white solid;
   --max-width-xs: 360px;
@@ -83,10 +86,11 @@ a {
   --header-icon-height: 72px;
   --header-height: calc(var(--header-icon-height) + (var(--space-unit) * 2));
   
-  --toolbar-button-width: 32px;
+  --toolbar-button-width: 24px;
   --toolbar-height: calc(var(--toolbar-button-width) + var(--space-unit));
   
-  --content-border-line: var(--space-unit-xs) var(--color-bg-blastoise) solid;
+  /* --content-border-line: 1px var(--color-highlight-blastoise) solid; */
+  --content-border-line: 1px rgba(255, 255, 255, 0.5) solid;
 }
 
 .main-layout {
@@ -155,7 +159,7 @@ a {
   height: var(--header-height)
 }
 .header-icon-wrapper {
-  flex: 0 0 calc(var(--header-icon-height) + var(--space-unit));
+  flex: 0 0 calc(var(--header-icon-height) + var(--space-unit-3q));
 }
 .header-icon {
   width: var(--header-icon-height);
@@ -167,15 +171,17 @@ a {
 .header-title {
   margin: 0;
   color: var(--color-highlight-blastoise);
-  font-size: 2.5rem;
+  font-size: 2rem;
   line-height: 1;
+  letter-spacing: 1px;
+  font-weight: normal;
 }
 .header-text {
-  font-size: 0.8rem;
+  font-size: var(--text-size-sm);
   line-height: 1;
   position: relative;
   display: inline-block;
-  bottom: var(--space-unit-sm);
+  bottom: var(--space-unit-xs);
   letter-spacing: 1.25px;
 }
 
@@ -231,20 +237,23 @@ a {
   width: 67%;
   right: 0;
   bottom: 0;
-  font-size: 0.8rem;
+  font-size: var(--text-size-sm);
+  letter-spacing: 0.25px;
   background-color: var(--color-post-content-blastoise);
   background-image: url("images/backgrounds/buried.png");
   background-repeat: repeat;
-  padding: var(--space-unit);
+  padding: var(--space-unit-sm);
   border-top: var(--content-border-line);
   border-left: var(--content-border-line);
 }
 .card header,
-.card h2 {
-  margin-bottom: 8px;
+.card .card-title {
+  margin-bottom: var(--space-unit-sm);
 }
-.card h2 {
+.card .card-title {
   font-size: 1.5rem;
+  font-weight: normal;
+  letter-spacing: 0.75px;
 }
 .card h1,
 .card h2,
@@ -279,7 +288,7 @@ a {
   margin: var(--space-unit) 0;
 }
 .footer .footer-text {
-  font-size: 0.8rem;
+  font-size: var(--text-size-sm);
   line-height: 1;
   letter-spacing: 1.25px;
 }
