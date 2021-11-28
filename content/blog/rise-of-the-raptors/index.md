@@ -20,9 +20,9 @@ draft: false
 
 ## Tools/resources used
 
-* VueJS - the main framework
-* d3 - presents the data as a bubble chart
-* basketball-reference.com - primary data source
+- VueJS - the main framework
+- d3 - presents the data as a bubble chart
+- basketball-reference.com - primary data source
 
 ## Results
 

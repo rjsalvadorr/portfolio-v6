@@ -12,18 +12,22 @@ const placeholderMap = {
 }
 
 // generates an integer from 0 to the number (exclusive)
-const getRandomInt = (max) => {
-  return Math.floor(Math.random() * max);
+const getRandomInt = max => {
+  return Math.floor(Math.random() * max)
 }
 
 const Card = ({ post }) => {
-  const title = post.frontmatter.title || post.fields.slug;
-  const cardPlaceholderImg = placeholderMap[getRandomInt(3)];
+  const title = post.frontmatter.title || post.fields.slug
+  const cardPlaceholderImg = placeholderMap[getRandomInt(3)]
 
   return (
     <div className="card">
       <div className="card-image-wrapper">
-        <img className="card-image" src={cardPlaceholderImg} alt="navigation icon" />
+        <img
+          className="card-image"
+          src={cardPlaceholderImg}
+          alt="navigation icon"
+        />
       </div>
       <article
         className="post-list-item card-content"
@@ -48,6 +52,6 @@ const Card = ({ post }) => {
       </article>
     </div>
   )
-};
+}
 
 export default Card

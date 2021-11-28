@@ -31,9 +31,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -57,9 +55,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -83,9 +79,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -109,9 +103,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -135,9 +127,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -161,9 +151,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -187,9 +175,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -213,9 +199,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -239,9 +223,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -265,9 +247,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -291,9 +271,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -317,9 +295,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -347,9 +323,7 @@
     "params": [
       {
         "name": "message",
-        "types": [
-          "*"
-        ]
+        "types": ["*"]
       }
     ]
   },
@@ -367,9 +341,7 @@
     "description": "The core React component for the web app.",
     "lineNumber": 27,
     "interface": false,
-    "extends": [
-      "React~React.Component"
-    ]
+    "extends": ["React~React.Component"]
   },
   {
     "__docId__": 15,
@@ -393,9 +365,7 @@
     "params": [
       {
         "name": "props",
-        "types": [
-          "*"
-        ]
+        "types": ["*"]
       }
     ]
   },
@@ -411,9 +381,7 @@
     "lineNumber": 34,
     "type": {
       "nullable": null,
-      "types": [
-        "Object"
-      ],
+      "types": ["Object"],
       "spread": false,
       "description": null
     }
@@ -430,9 +398,7 @@
     "lineNumber": 45,
     "type": {
       "nullable": null,
-      "types": [
-        "Object"
-      ],
+      "types": ["Object"],
       "spread": false,
       "description": null
     }
@@ -455,9 +421,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -478,9 +442,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -501,9 +463,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -524,9 +484,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -547,9 +505,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -570,9 +526,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -593,9 +547,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -616,9 +568,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -639,9 +589,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -662,9 +610,7 @@
       }
     ],
     "type": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -681,9 +627,7 @@
     "lineNumber": 82,
     "params": [],
     "return": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {
@@ -700,9 +644,7 @@
     "lineNumber": 93,
     "params": [],
     "return": {
-      "types": [
-        "boolean"
-      ]
+      "types": ["boolean"]
     }
   },
   {
@@ -769,9 +711,7 @@
     "params": [
       {
         "name": "message",
-        "types": [
-          "*"
-        ]
+        "types": ["*"]
       }
     ]
   },
@@ -790,9 +730,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "string"
-        ],
+        "types": ["string"],
         "spread": false,
         "optional": false,
         "name": "stateKey",
@@ -800,11 +738,7 @@
       },
       {
         "nullable": null,
-        "types": [
-          "number",
-          "string",
-          "Object"
-        ],
+        "types": ["number", "string", "Object"],
         "spread": false,
         "optional": false,
         "name": "newState",
@@ -812,9 +746,7 @@
       },
       {
         "nullable": null,
-        "types": [
-          "boolean"
-        ],
+        "types": ["boolean"],
         "spread": false,
         "optional": true,
         "name": "useDataStore",
@@ -837,9 +769,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -862,9 +792,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -887,9 +815,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -912,9 +838,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -937,9 +861,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -962,9 +884,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -987,9 +907,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -1012,9 +930,7 @@
     "params": [
       {
         "nullable": null,
-        "types": [
-          "Object"
-        ],
+        "types": ["Object"],
         "spread": false,
         "optional": false,
         "name": "event",
@@ -1043,9 +959,7 @@
     ],
     "params": [],
     "return": {
-      "types": [
-        "*"
-      ]
+      "types": ["*"]
     }
   },
   {

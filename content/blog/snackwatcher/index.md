@@ -24,19 +24,19 @@ Sometime in late 2015/early 2016, I worked on a neat project while working at th
 
 #### HARDWARE
 
-- *Raspberry Pi 2*. One for development, and another for deployment
+- _Raspberry Pi 2_. One for development, and another for deployment
 - Spare monitors, for shielding the camera from glare
 
 #### SOFTWARE
 
-- [*OpenCV*](http://opencv.org/) and [*SimpleCV*](http://simplecv.org/) for image recognition.
-- [*Orange*](https://orange.biolab.si/) machine learning tools.
-- [*Flask*](http://flask.pocoo.org/) and *Jinja* were used for displaying data to the web.
-- [*Hubot*](https://hubot.github.com/) gave our team automatic updates via Slack.
+- [_OpenCV_](http://opencv.org/) and [_SimpleCV_](http://simplecv.org/) for image recognition.
+- [_Orange_](https://orange.biolab.si/) machine learning tools.
+- [_Flask_](http://flask.pocoo.org/) and _Jinja_ were used for displaying data to the web.
+- [_Hubot_](https://hubot.github.com/) gave our team automatic updates via Slack.
 
 ## Process
 
-Upon joining the SnackWatcher team, I worked on the user-facing parts of the system. First, I set up a Slack bot to let our colleagues know when there are new snacks. This bot periodically checked the table status (using the handy SnackWatcher API). I also implemented a webpage using *Flask*, a Python static site generator.
+Upon joining the SnackWatcher team, I worked on the user-facing parts of the system. First, I set up a Slack bot to let our colleagues know when there are new snacks. This bot periodically checked the table status (using the handy SnackWatcher API). I also implemented a webpage using _Flask_, a Python static site generator.
 
 ## Results
 

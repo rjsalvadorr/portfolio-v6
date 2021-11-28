@@ -32,13 +32,13 @@ Sometime around winter 2012, I used my new-found C++ skills to make a simple 2D 
 
 The game had to blend together:
 
-+ **User control**. This thing has to respond to inputs from the user, from the mouse and keyboard
-+ **In-game space**. Each entity exists in that space, and the engine will move entities and control interactions between them and the world
-+ **Camera system**. We want a game world that's larger than one screen.
-So we need a way to show only relevant events around the player
-+ **Graphics**. Each object needs graphics to be shown on the screen.
-If an object has different states, or can be seen from multiple angles, we needed more graphics for it.
-And also if we have different types of terrain
+- **User control**. This thing has to respond to inputs from the user, from the mouse and keyboard
+- **In-game space**. Each entity exists in that space, and the engine will move entities and control interactions between them and the world
+- **Camera system**. We want a game world that's larger than one screen.
+  So we need a way to show only relevant events around the player
+- **Graphics**. Each object needs graphics to be shown on the screen.
+  If an object has different states, or can be seen from multiple angles, we needed more graphics for it.
+  And also if we have different types of terrain
 
 ## Process
 

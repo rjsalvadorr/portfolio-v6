@@ -1,58 +1,64 @@
-import React from 'react';
-import ThreeCity from './three-city';
-import DynamicGrid from './dynamic-grid';
-import RisingPillars from './rising-pillars';
-import threeUtils from './utils/three-utils';
-import vizStyles from '../../styles/visualizations.module.css';
+import React from "react"
+import ThreeCity from "./three-city"
+import DynamicGrid from "./dynamic-grid"
+import RisingPillars from "./rising-pillars"
+import threeUtils from "./utils/three-utils"
+import vizStyles from "../../styles/visualizations.module.css"
 
 class Visualizations extends React.Component {
-  constructor (props) {
-    super (props);
+  constructor(props) {
+    super(props)
     this.state = {
       overlayOff: false,
       currentVisual: 0,
-    };
-    this.visualsRef = React.createRef ();
-    this.fadeIn = this.fadeIn.bind (this);
-    this.fadeOut = this.fadeOut.bind (this);
-    this.resetVisual = this.resetVisual.bind (this);
-    this.intervalId = null;
-    this.timeoutId = null;
+    }
+    this.visualsRef = React.createRef()
+    this.fadeIn = this.fadeIn.bind(this)
+    this.fadeOut = this.fadeOut.bind(this)
+    this.resetVisual = this.resetVisual.bind(this)
+    this.intervalId = null
+    this.timeoutId = null
   }
 
-  fadeIn () {
+  fadeIn() {
     try {
-      this.setState ({overlayOff: true});
+      this.setState({ overlayOff: true })
     } catch (e) {
-      console.log ("Visualization failed to load: Couldn't update state properly");
+      console.log(
+        "Visualization failed to load: Couldn't update state properly"
+      )
     }
   }
 
-  fadeOut () {
+  fadeOut() {
     try {
-      this.setState ({overlayOff: false});
+      this.setState({ overlayOff: false })
     } catch (e) {
-      console.log ("Visualization failed to load: Couldn't update state properly");
+      console.log(
+        "Visualization failed to load: Couldn't update state properly"
+      )
     }
   }
 
-  resetVisual () {
+  resetVisual() {
     // let nextVis = this.state.currentVisual + 1;
     // if (nextVis > 3) {
     //   nextVis = 1;
     // }
     try {
-      this.setState ({
+      this.setState({
         overlayOff: true,
         currentVisual: threeUtils.getRandomInt(1, 10),
-      });
+      })
     } catch (e) {
-      console.log ("Visualization failed to load: Couldn't update state properly");
+      console.log(
+        "Visualization failed to load: Couldn't update state properly"
+      )
     }
   }
 
-  componentDidMount () {
-    const reset = this.resetVisual;
+  componentDidMount() {
+    const reset = this.resetVisual
     // const fade = this.fadeOut;
 
     // const time = 8000; // 8 seconds
@@ -65,17 +71,17 @@ class Visualizations extends React.Component {
     //   }, time - 500);
     // }, time);
 
-    reset ();
+    reset()
     // setTimeout (function () {
     //   fade ();
     // }, time - 500);
   }
 
-  render () {
-    let visual = <ThreeCity />;
+  render() {
+    let visual = <ThreeCity />
     let overlayClass = this.state.overlayOff
       ? `${vizStyles.vizOverlay} ${vizStyles.vizOverlayOff}`
-      : `${vizStyles.vizOverlay}`;
+      : `${vizStyles.vizOverlay}`
 
     // switch (this.state.currentVisual) {
     //   case 2:
@@ -88,10 +94,9 @@ class Visualizations extends React.Component {
     //     visual = <ThreeCity />;
     // }
     if (this.state.currentVisual < 7) {
-      visual = <RisingPillars />;
-    }
-    else if (this.state.currentVisual < 10) {
-      visual = <DynamicGrid />;
+      visual = <RisingPillars />
+    } else if (this.state.currentVisual < 10) {
+      visual = <DynamicGrid />
     }
 
     return (
@@ -104,15 +109,15 @@ class Visualizations extends React.Component {
           {visual}
         </div>
       </div>
-    );
+    )
   }
 
-  componentWillUnmount () {
-    window.clearInterval (this.intervalId);
-    clearTimeout (this.timeoutId);
-    this.intervalId = null;
-    this.timeoutId = null;
+  componentWillUnmount() {
+    window.clearInterval(this.intervalId)
+    clearTimeout(this.timeoutId)
+    this.intervalId = null
+    this.timeoutId = null
   }
 }
 
-export default Visualizations;
+export default Visualizations

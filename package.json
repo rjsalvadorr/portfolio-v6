@@ -1,19 +1,22 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "rj-portfolio",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "RJ Salvador's Portfolio",
+  "version": "6.0.0",
+  "author": "RJ Salvador <rjsalvadorr@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/rjsalvadorr/portfolio-v6"
   },
   "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
     "gatsby": "^4.2.0",
     "gatsby-plugin-feed": "^4.2.0",
     "gatsby-plugin-gatsby-cloud": "^4.2.0",
     "gatsby-plugin-google-analytics": "^4.2.0",
     "gatsby-plugin-image": "^2.2.0",
     "gatsby-plugin-manifest": "^4.2.0",
+    "gatsby-plugin-mdx": "^3.2.0",
     "gatsby-plugin-offline": "^5.2.0",
     "gatsby-plugin-react-helmet": "^5.2.0",
     "gatsby-plugin-sharp": "^4.2.0",
@@ -23,19 +26,19 @@
     "gatsby-remark-responsive-iframe": "^5.2.0",
     "gatsby-remark-smartypants": "^5.2.0",
     "gatsby-source-filesystem": "^4.2.0",
-    "gatsby-transformer-remark": "^5.2.0",
     "gatsby-transformer-sharp": "^4.2.0",
     "prismjs": "^1.25.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
+    "rehype-react": "^7.0.3",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "2.5.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/rjsalvadorr/portfolio-v6",
   "keywords": [
     "gatsby"
   ],
@@ -43,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/rjsalvadorr/portfolio-v6.git"
   },
   "scripts": {
     "build": "gatsby build",
