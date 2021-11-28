@@ -8,6 +8,6 @@ const HomeFeed = ({ posts }) => (
       <Card post={post} key={post.fields.slug} />
     ))}
   </div>
-);
+)
 
 export default HomeFeed

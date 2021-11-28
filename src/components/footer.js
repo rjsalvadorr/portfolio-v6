@@ -8,12 +8,13 @@ const Footer = ({ isHome, isPost }) => (
     <div className="footer-container">
       <NavigationToolbar />
       <div className="footer-text-wrapper">
-          <span className="footer-text">
-            © {new Date().getFullYear()} &nbsp;<span className="text-fade">//</span> &nbsp;R. J. Salvador
-          </span>
+        <span className="footer-text">
+          © {new Date().getFullYear()} &nbsp;
+          <span className="text-fade">//</span> &nbsp;R. J. Salvador
+        </span>
       </div>
     </div>
   </div>
-);
+)
 
 export default Footer

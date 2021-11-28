@@ -6,24 +6,21 @@ const Layout = ({ location, title, children, className, isPost }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
 
-  console.log(location, title, children, className);
+  console.log(location, title, children, className)
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-
       <div className="main-background">
         <div className="overlay"></div>
         <div className="effect"></div>
       </div>
 
       <div className={`main-layout ${className}`}>
-        <Header isHome={isRootPath} isPost={isPost}/>
+        <Header isHome={isRootPath} isPost={isPost} />
         <div className="main-wrapper">
-          <main className="main-container">
-            {children}
-          </main>
+          <main className="main-container">{children}</main>
         </div>
-        <Footer isHome={isRootPath} isPost={isPost}/>
+        <Footer isHome={isRootPath} isPost={isPost} />
         <div className="overlay"></div>
         <div className="effect"></div>
       </div>
