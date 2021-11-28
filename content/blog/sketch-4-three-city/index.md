@@ -8,6 +8,7 @@ tags:
   - "code sketch"
   - "threejs"
 thumbnail: media/sketch-4/thumb.jpg
+description: SKETCH -- Generative 3D geometry
 options:
   - hideDesc
 slug: "sketch-4"

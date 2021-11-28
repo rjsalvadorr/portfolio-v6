@@ -7,6 +7,7 @@ category: code sketch
 tags:
   - "code sketch"
   - "threejs"
+description: SKETCH -- Visualizing waveforms with cylinders
 thumbnail: media/sketch-7/thumb.jpg
 options:
   - hideDesc

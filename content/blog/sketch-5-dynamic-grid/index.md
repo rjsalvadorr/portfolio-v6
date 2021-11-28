@@ -8,6 +8,7 @@ tags:
   - "code sketch"
   - "threejs"
 thumbnail: media/sketch-5/thumb.jpg
+description: SKETCH -- Visualizing waveforms circle size
 options:
   - hideDesc
 slug: "sketch-5"

@@ -7,13 +7,13 @@ category: code sketch
 tags:
   - "code sketch"
   - "threejs"
+description: "SKETCH -- Generative 2D geometry and wave functions"
 thumbnail: media/sketch-6/thumb.jpg
 options:
   - hideDesc
 slug: "sketch-6"
 draft: false
 ---
-
 
 <div className="threejs-viz-container">
   <iframe id="sketch-6"

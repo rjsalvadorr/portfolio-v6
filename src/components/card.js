@@ -23,6 +23,7 @@ const Card = ({ post }) => {
 
   return (
     <div className="card">
+      <div className="card-background" />
       <div className="card-image-wrapper">
         <img
           className="card-image"
@@ -39,7 +40,9 @@ const Card = ({ post }) => {
         <header>
           <h2>
             <Link to={post.fields.slug} itemProp="url">
-              <span itemProp="headline" className="card-title">{title}</span>
+              <span itemProp="headline" className="card-title">
+                {title}
+              </span>
             </Link>
           </h2>
         </header>

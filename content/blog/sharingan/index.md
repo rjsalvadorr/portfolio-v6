@@ -7,6 +7,7 @@ category: art
 tags:
   - "painting"
   - "anime"
+description: Anime fanart painting series
 thumbnail: media/sharingan/thumb.jpg
 slug: "sharingan"
 draft: false
