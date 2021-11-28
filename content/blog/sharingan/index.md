@@ -14,6 +14,7 @@ draft: false
 ---
 
 ![yep yep yep](./full.jpg "yea")
+
 ![yep yep yep](./sasuke-table.jpg "yea")
 
 This painting series was inspired by the Naruto marathon I watched a few months ago.
