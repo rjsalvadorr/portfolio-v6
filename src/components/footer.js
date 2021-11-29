@@ -8,10 +8,13 @@ const Footer = ({ isHome, isPost }) => (
     <div className="footer-container">
       <NavigationToolbar />
       <div className="footer-text-wrapper">
-        <span className="footer-text">
-          © {new Date().getFullYear()} &nbsp;
-          <span className="text-fade">//</span> &nbsp;R. J. Salvador
-        </span>
+        <p className="footer-text">
+          <span>© {new Date().getFullYear()}</span>
+          <span className="text-spacer">//</span>
+          <span>R. J. Salvador</span>
+          <span className="text-spacer">//</span>
+          <span>Toronto, Canada</span>
+        </p>
       </div>
     </div>
   </div>
