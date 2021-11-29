@@ -1,20 +1,20 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-import kitty1 from "../images/kitty-1.jpg"
-import kitty2 from "../images/kitty-2.jpg"
-import kitty3 from "../images/kitty-3.jpg"
+// import kitty1 from "../images/kitty-1.jpg"
+// import kitty2 from "../images/kitty-2.jpg"
+// import kitty3 from "../images/kitty-3.jpg"
 
-const placeholderMap = {
-  0: kitty1,
-  1: kitty2,
-  2: kitty3,
-}
+// const placeholderMap = {
+//   0: kitty1,
+//   1: kitty2,
+//   2: kitty3,
+// }
 
 // generates an integer from 0 to the number (exclusive)
-const getRandomInt = max => {
-  return Math.floor(Math.random() * max)
-}
+// const getRandomInt = max => {
+//   return Math.floor(Math.random() * max)
+// }
 
 const Card = ({ post }) => {
   const title = post.frontmatter.title || post.fields.slug

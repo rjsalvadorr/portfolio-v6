@@ -7,6 +7,7 @@ const Layout = ({ location, title, children, className, isPost }) => {
   const isRootPath = location.pathname === rootPath
 
   console.log(location, title, children, className)
+  const cName = className ? className : '';
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
@@ -15,7 +16,7 @@ const Layout = ({ location, title, children, className, isPost }) => {
         <div className="effect"></div>
       </div>
 
-      <div className={`main-layout ${className}`}>
+      <div className={`main-layout ${cName}`}>
         <Header isHome={isRootPath} isPost={isPost} />
         <div className="main-wrapper">
           <main className="main-container">{children}</main>
