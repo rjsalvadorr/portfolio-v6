@@ -23,6 +23,7 @@ class ThreeCity extends React.Component {
             right: 0,
             bottom: 0,
             left: 0,
+            backgroundColor: '#000000',
             // zIndex: -200,
           }}
         />
