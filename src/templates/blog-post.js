@@ -26,7 +26,9 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline" className="blog-post-title">
             {post.frontmatter.title}
           </h1>
-          <p>{post.frontmatter.date}</p>
+          <p className="blog-post-details">
+            {post.frontmatter.date}
+          </p>
         </header>
         <MDXRenderer>{post.body}</MDXRenderer>
       </article>

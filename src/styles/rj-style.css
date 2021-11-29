@@ -70,16 +70,22 @@ overrides the 1st layer from "style.css".
 }
 
 article.blog-post {
-  padding: var(--space-unit-6q) var(--space-unit) 0 var(--space-unit);
+  padding-top: var(--space-unit-6q);
   margin: 0;
 }
 nav.blog-post-nav {
-  padding: 0 var(--space-unit) var(--space-unit-6q) var(--space-unit);
+  padding-bottom: var(--space-unit-6q);
 }
-.blog-post .blog-post-title{
+.blog-post .blog-post-title {
   letter-spacing: var(--main-title-spacing);
   color: var(--color-highlight-blastoise);
+  margin-bottom: var(--space-unit-sm);
 }
+.blog-post .blog-post-details {
+  font-family: var(--fontFamily-monospace);
+  font-size: var(--text-size-sm);
+}
+
 .blog-post h1,
 .blog-post h2,
 .blog-post h3,
@@ -136,6 +142,10 @@ a {
 
 .text-fade {
   opacity: 0.25;
+}
+
+.threejs-viz-container {
+  margin-bottom: var(--space-unit);
 }
 
 .threejs-viz-container .resp-iframe {

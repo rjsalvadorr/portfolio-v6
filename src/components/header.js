@@ -1,7 +1,7 @@
 import * as React from "react"
 
 import NavigationToolbar from "./navigation-row"
-import headerIcon from "../images/icons/pearl-v1.svg"
+import headerIcon from "../images/icons/pearl-v2.svg"
 
 const Header = ({ isHome, isPost }) => (
   <div className="header">
