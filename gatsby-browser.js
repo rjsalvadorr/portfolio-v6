@@ -15,6 +15,7 @@ import "./src/styles/rj-style.css"
 import "./src/styles/header-footer.css"
 import "./src/styles/navigation-toolbar.css"
 import "./src/styles/card.css"
+import "./src/styles/responsive.css"
 
 // Highlighting for code blocks
 import "prismjs/themes/prism.css"

@@ -40,6 +40,11 @@ overrides the 1st layer from "style.css".
 
   --basic-line: 1px white solid;
   --max-width-xs: 360px;
+  --max-width-sm: 480px;
+  --max-width-md1: 640px;
+  --max-width-md2: 768px;
+  --max-width-md3: 960px;
+  --max-width-lg: 1280px;
   
   --header-icon-height: 72px;
   --header-height: calc(var(--header-icon-height) + (var(--space-unit) * 2));
