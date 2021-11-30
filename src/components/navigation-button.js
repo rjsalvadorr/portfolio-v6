@@ -43,7 +43,7 @@ const NavigationButton = ({ buttonType, buttonId, isActive }) => {
   if (!!buttonId) {
     if (buttonType === "link") {
       return (
-        <Link to={getLink(buttonId)} itemProp="url">
+        <Link to={getLink(buttonId)} itemProp="url" className="navigation-button-link">
           <div className={`navigation-button ${classMod}`}>
             <div className="navigation-icon-wrapper">
               <img

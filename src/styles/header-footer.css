@@ -9,7 +9,7 @@
 .header .header-nav-background {
   width: 100%;
   height: var(--toolbar-height);
-  background-color: var(--color-header-blastoise);
+  background-image: url("../images/backgrounds/tight-hatch.svg");
   position: absolute;
   top: var(--header-height)
 }
@@ -53,7 +53,7 @@
 
 
 .main-layout > .footer {
-  padding: 0 0 var(--space-unit-xs) 0;
+  padding: 0 0 1px 0;
   background-color: var(--color-bg-blastoise);
   background-image: url("../images/backgrounds/noisy-grid-dark.png");
   background-repeat: repeat;
@@ -63,7 +63,7 @@
 .footer .footer-nav-background {
   width: 100%;
   height: var(--toolbar-height);
-  background-color: var(--color-header-blastoise);
+  background-image: url("../images/backgrounds/tight-hatch.svg");
   position: absolute;
 }
 .footer .footer-container {
@@ -78,6 +78,7 @@
   font-size: var(--text-size-sm);
   line-height: 1;
   letter-spacing: 1.25px;
+  margin: var(--space-unit-6q) 0;
 }
 
 .footer .footer-text-small {

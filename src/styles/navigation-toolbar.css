@@ -2,14 +2,28 @@
   position: relative;
   padding: var(--space-unit-sm) 0;
   height: var(--toolbar-height);
+  display: flex;
+  justify-content: space-between;
 }
+.nav-btn-container-left {
+  flex: 0 0 var(--toolbar-left-width);
+}
+.nav-btn-container-right {
+  flex: 0 0 var(--toolbar-right-width);
+}
+
 .nav-btn-container {
   display: flex;
   justify-content: space-between;
 }
-.navigation-button {
-  flex: 0 0 var(--toolbar-button-width);
+.nav-btn-container > .navigation-button,
+.nav-btn-container > .navigation-button-link {
+  flex: 0 0 var(--toolbar-button);
 }
+.nav-btn-container .nav-btn-spacer {
+  flex: 1 1 auto;
+}
+
 .navigation-button.disabled {
   opacity: 0.17;
 }
