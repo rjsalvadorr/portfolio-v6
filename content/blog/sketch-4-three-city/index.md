@@ -3,12 +3,12 @@ title: Three City
 subtitle:
 date: 2019-05-15 12:00:00
 template: post
-category: code sketch
+category: sketch
 tags:
-  - "code sketch"
+  - "sketch"
   - "threejs"
 thumbnail: media/sketch-4/thumb.jpg
-description: SKETCH -- Generative 3D geometry
+description: Generative 3D geometry
 options:
   - hideDesc
 slug: "sketch-4"

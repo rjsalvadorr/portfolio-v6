@@ -3,9 +3,9 @@ title: guitarragrams
 subtitle: Guitar chord diagrams
 date: 2018-09-23 18:02:06
 template: post
-category: code project
+category: project
 tags:
-  - "code project"
+  - "project"
   - "guitar"
 thumbnail: media/guitarragrams/thumb.jpg
 slug: "guitarragrams"

@@ -3,11 +3,11 @@ title: Rising Pillars
 subtitle:
 date: 2020-01-29 12:00:00
 template: post
-category: code sketch
+category: sketch
 tags:
-  - "code sketch"
+  - "sketch"
   - "threejs"
-description: SKETCH -- Visualizing waveforms with cylinders
+description: Visualizing waveforms with cylinders
 thumbnail: media/sketch-7/thumb.jpg
 options:
   - hideDesc
@@ -24,4 +24,4 @@ draft: false
   </iframe>
 </div>
 
-Again, this uses combined sine waves from earlier code sketches, but with the wave output displayed as the height of scattered pillars. That wave movement looks a lot cooler in 3D.
+This uses combined sine waves from earlier sketches, but with the wave output displayed as the height of scattered pillars. That wave movement looks a lot cooler in 3D.

@@ -3,9 +3,9 @@ title: AutoComposer
 subtitle:
 date: 2017-04-30 13:22:43
 template: post
-category: code project
+category: project
 tags:
-  - "code project"
+  - "project"
   - "music composition"
 thumbnail: media/autocomposer/thumb.jpg
 slug: "autocomposer"

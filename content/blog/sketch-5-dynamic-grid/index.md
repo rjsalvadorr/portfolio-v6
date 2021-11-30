@@ -3,12 +3,12 @@ title: Dynamic Grid
 subtitle:
 date: 2019-06-05 12:00:00
 template: post
-category: code sketch
+category: sketch
 tags:
-  - "code sketch"
+  - "sketch"
   - "threejs"
 thumbnail: media/sketch-5/thumb.jpg
-description: SKETCH -- Visualizing waveforms circle size
+description: Visualizing waveforms circle size
 options:
   - hideDesc
 slug: "sketch-5"

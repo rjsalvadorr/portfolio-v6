@@ -38,16 +38,21 @@ const Card = ({ post }) => {
         itemType="http://schema.org/Article"
       >
         <header>
-          <h2>
+          <h2 className="card-title">
             <Link to={post.fields.slug} itemProp="url">
-              <span itemProp="headline" className="card-title">
+              <span itemProp="headline">
                 {title}
               </span>
             </Link>
           </h2>
+          <p className="card-data">
+            {post.frontmatter.category}
+            <span className="text-spacer">//</span>
+            {post.frontmatter.date}
+          </p>
         </header>
         <section>
-          <p
+          <span
             dangerouslySetInnerHTML={{
               __html: post.frontmatter.description || post.excerpt,
             }}

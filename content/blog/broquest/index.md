@@ -3,9 +3,9 @@ title: BroQuest
 subtitle: Winter 2012 - Summer 2013
 date: 2017-01-08 17:07:17
 template: post
-category: code project
+category: project
 tags:
-  - "code project"
+  - "project"
   - "incomplete"
 thumbnail: media/broquest/thumb.jpg
 options:
