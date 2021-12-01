@@ -6,12 +6,12 @@ slug: "about"
 draft: false
 ---
 
-# About
+# About Me
 
-this is an about file
+When I’m away from work, I’m usually playing music, climbing at a gym, or designing more things. In general, I'm chasing things that I'm curious about.
 
-yeeeur
+## Some life goals
 
-# sadfkjhadsfkl
-
-## dfvlkgjfdhlk
+- Build up repertoire on guitar, start performing music again
+- Design my own house and have it built
+- Make a career designing and building cool things (buildings, art, machines, whatever)
