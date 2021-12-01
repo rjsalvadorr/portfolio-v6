@@ -2,8 +2,10 @@ import * as React from "react"
 
 import NavigationButton from "./navigation-button"
 
+const ENABLE_NAV_ARROWS = false;
+
 const NavigationToolbar = ({ isHome, isPost }) => {
-  const isNavArrowActive = !!isPost
+  const isNavArrowActive = !!isPost && ENABLE_NAV_ARROWS;
   return (
     <div className="navigation-toolbar">
       <div className="nav-btn-container nav-btn-container-left">

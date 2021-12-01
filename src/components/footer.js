@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import NavigationToolbar from "./navigation-row"
+import NavigationToolbar from "./navigation-toolbar"
 
 const Footer = ({ isHome, isPost }) => (
   <div className="footer">

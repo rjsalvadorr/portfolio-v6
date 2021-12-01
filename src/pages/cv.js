@@ -1,5 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
+import { MDXRenderer } from "gatsby-plugin-mdx"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -8,22 +9,9 @@ const CurriculumVitaePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
-    <Layout location={location} title={siteTitle} className="cv-layout">
+    <Layout location={location} title={siteTitle} className="page-layout cv-layout">
       <Seo title="CV" />
-      <h1 className="page-title">CV</h1>
-      <p>
-        Enthusiastically mesh long-term high-impact infrastructures vis-a-vis
-        efficient customer service. Professionally fashion wireless leadership
-        rather than prospective experiences. Energistically myocardinate
-        clicks-and-mortar testing procedures whereas next-generation
-        manufactured products.
-      </p>
-      <p>
-        Dynamically reinvent market-driven opportunities and ubiquitous
-        interfaces. Energistically fabricate an expanded array of niche markets
-        through robust products. Appropriately implement visionary e-services
-        vis-a-vis strategic web-readiness.
-      </p>
+      <MDXRenderer>{data.allMdx.nodes[0].body}</MDXRenderer>
     </Layout>
   )
 }
@@ -35,6 +23,11 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    allMdx(filter: { frontmatter: { slug: { eq: "cv" } } }) {
+      nodes {
+        body
       }
     }
   }

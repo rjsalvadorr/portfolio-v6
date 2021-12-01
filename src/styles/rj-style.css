@@ -50,7 +50,8 @@ overrides the 1st layer from "style.css".
   --header-height: calc(var(--header-icon-height) + (var(--space-unit) * 2));
   
   --toolbar-button-width: 24px;
-  --toolbar-button-gutter: calc(var(--toolbar-button-width) / 2);
+  /* --toolbar-button-gutter: calc(var(--toolbar-button-width) / 2); */
+  --toolbar-button-gutter: var(--toolbar-button-width);
   --toolbar-height: calc(var(--toolbar-button-width) + var(--space-unit));
   --toolbar-left-width: calc(var(--toolbar-button-width) * 3 + var(--toolbar-button-gutter) * 2);
   --toolbar-right-width: calc(var(--toolbar-button-width) * 2 + var(--toolbar-button-gutter));
@@ -143,7 +144,15 @@ a {
   margin-bottom: 0;
 }
 
-.page-title {
+.page-layout h1,
+.page-layout h2,
+.page-layout h3,
+.page-layout h4,
+.page-layout h5,
+.page-layout h6 {
+  color: #dddddd;
+}
+.page-layout h1:first-of-type {
   letter-spacing: var(--main-title-spacing);
   color: var(--color-highlight-blastoise);
 }

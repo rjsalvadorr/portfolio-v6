@@ -11,6 +11,12 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
+
+  const rjImg = (props) => <img {...props} className="blegh-yeeeeuurr" />
+  const components = {
+    img: rjImg,
+  }
+
   return (
     <Layout location={location} title={siteTitle} isPost={true}>
       <Seo
@@ -30,7 +36,7 @@ const BlogPostTemplate = ({ data, location }) => {
             {post.frontmatter.date}
           </p>
         </header>
-        <MDXRenderer>{post.body}</MDXRenderer>
+        <MDXRenderer components={components}>{post.body}</MDXRenderer>
       </article>
       <nav className="blog-post-nav">
         <ul

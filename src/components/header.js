@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import NavigationToolbar from "./navigation-row"
+import NavigationToolbar from "./navigation-toolbar"
 import headerIcon from "../images/icons/pearl-v2.svg"
 
 const Header = ({ isHome, isPost }) => (
