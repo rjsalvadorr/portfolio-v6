@@ -41,17 +41,19 @@ Toronto, ON_
 
 ### Software Engineer,<br/>Uncharted Software
 
-_Nov 2019 – Apr 2021  
+_Core technologies -- Ember.js, Node.js, Express, Cytoscape  
+Nov 2019 – Apr 2021  
 Toronto, ON_
 
-Uncharted Software is proud of solving tough problems visually, and they’ve built products for finance, law enforcement, and other industries. Here, I worked on the UI for an inference engine that helped teams make better decisions in extremely complex situations. The front-end of the project was built around Ember.JS, and interfaces with a data corpus collected through machine learning.
+Uncharted Software is proud of solving tough problems visually, and they’ve built products for finance, law enforcement, and other industries. Here, I worked on the UI for an inference engine that helped teams make better decisions in extremely complex situations. The front-end of the project was built around Ember.js, and interfaces with a data corpus collected through machine learning.
 
 - Focused on improving the efficiency and usability of the UI
 - Integrated and maintained modules built by computer scientists and researchers
 
 ### UI Web Developer,<br/>Intelex Technologies
 
-_Jun 2017 – Feb 2019  
+_Core technologies -- React, Node.js, .NET, SQL Server  
+Jun 2017 – Feb 2019  
 Toronto, ON_
 
 Intelex caters to the Environment, Health, Safety, and Quality industry, and helps professionals keep workplaces around the world safe and sustainable. The EHSQ Alliance was a social network that fostered collaboration and knowledge-sharing among EHSQ professionals. The project was built with ReactJS, and was integrated with the main Intelex application.
@@ -62,7 +64,8 @@ on maintaining clean architecture and testing standards.
 
 ### Technical Developer,<br/>Jonah Group
 
-_Sep 2014 – Nov 2016  
+_Core technologies -- J2EE, Struts, Spring, Oracle 11g  
+Sep 2014 – Nov 2016  
 Toronto, ON_
 
 RouteOne is an auto financing company which helps car dealers streamline credit applications for buying and leasing vehicles. At the time, their system connected 18,000+ dealerships with 1,400+ finance sources. The web application used J2EE, Struts, and Spring as core technologies.
