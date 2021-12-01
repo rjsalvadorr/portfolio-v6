@@ -175,6 +175,19 @@ a {
   border: 0;
 }
 
+.cv-layout h1:first-of-type {
+  margin-bottom: 0;
+}
+.cv-layout h1 + h4 {
+  margin-top: 0;
+  color: var(--color-highlight-blastoise);
+  font-weight: normal;
+}
+
+.cv-layout h1,
+.cv-layout h2 {
+  color: var(--color-highlight-blastoise);  
+}
 
 
 /*/////  UTILITY CLASSES FOR DEVELOPER CONVENIENCE  /////*/
