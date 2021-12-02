@@ -157,6 +157,12 @@ a {
   letter-spacing: var(--main-title-spacing);
   color: var(--color-highlight-blastoise);
 }
+.page-layout .page-container {
+  padding: var(--space-unit-6q) 0;
+}
+.page-layout .page-container h1:first-of-type {
+  margin-top: 0;
+}
 
 .text-spacer {
   opacity: 0.25;

@@ -11,7 +11,9 @@ const CurriculumVitaePage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle} className="page-layout cv-layout">
       <Seo title="CV" />
-      <MDXRenderer>{data.allMdx.nodes[0].body}</MDXRenderer>
+      <div className="page-container">
+        <MDXRenderer>{data.allMdx.nodes[0].body}</MDXRenderer>
+      </div>
     </Layout>
   )
 }

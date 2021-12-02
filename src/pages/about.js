@@ -11,7 +11,9 @@ const AboutPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle} className="page-layout about-layout">
       <Seo title="About Me" />
-      <MDXRenderer>{data.allMdx.nodes[0].body}</MDXRenderer>
+      <div className="page-container">
+        <MDXRenderer>{data.allMdx.nodes[0].body}</MDXRenderer>
+      </div>
     </Layout>
   )
 }

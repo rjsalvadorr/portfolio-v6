@@ -8,10 +8,8 @@ draft: false
 
 # About Me
 
-When I’m away from work, I’m usually playing music, climbing at a gym, or designing more things. In general, I'm chasing things that I'm curious about.
+I'm a front-end developer and aspiring designer from Toronto, Canada. With over six years of professional dev experience, I'm comfortable with using many types of software tools to build a proper solution. In addition, I tend to work well with designers and artists when collaborating on visuals.
 
-## Some life goals
+When I'm away from work, I'm usually playing guitar, training at a climbing gym, or designing something to satisfy my curiosity. More recently, I've set my sights on architecture. It's a broad field, and feels like a space where I can put all my skills to their best use.
 
-- Build up repertoire on guitar, start performing music again
-- Design my own house and have it built
-- Make a career designing and building cool things (buildings, art, machines, whatever)
+I look forward to making cool stuff by combining my tech experience with fresh design skills.
