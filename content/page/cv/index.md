@@ -36,7 +36,7 @@ I’m seeking a part-time/contract developer role where I can make an impact wit
 _Architectural Technology  
 Sep 2021 - Present  
 Core technologies -- AutoCAD, Sketchup, Adobe Illustrator, Adobe Photoshop, Revit  
-Toronto, ON_
+Toronto, Canada_
 
 - Helped start a student network for architectural/interior design students (Architectural Studies Collective)
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
@@ -46,7 +46,7 @@ Toronto, ON_
 
 _Nov 2019 – Apr 2021  
 Core technologies -- Ember.js, Node.js, Express, Cytoscape  
-Toronto, ON_
+Toronto, Canada_
  
 - Worked on the UI for an inference engine that helped teams make better decisions in extremely complex situations.
 - Focused on improving the efficiency and usability of the UI, which interfaced with a data corpus collected through machine learning.
@@ -56,7 +56,7 @@ Toronto, ON_
 
 _Jun 2017 – Feb 2019  
 Core technologies -- React, Node.js, .NET, SQL Server  
-Toronto, ON_ 
+Toronto, Canada_ 
 
 - Developed and maintained a new UI for an application catering to the Environment, Health, Safety, and Quality industry.
 - As our codebase grew, I focused more on maintaining clean architecture and testing standards.
@@ -66,7 +66,7 @@ Toronto, ON_
 
 _Sep 2014 – Nov 2016  
 Core technologies -- J2EE, Struts, Spring, Oracle 11g  
-Toronto, ON_
+Toronto, Canada_
 
 - Delivered customized features for our client, RouteOne. Their auto financing web app helped car dealers streamline credit applications for vehicles. At the time, their system connected 18,000+ dealerships with 1,400+ finance sources.
 - Delivered work under tight deadlines. In one case, I delivered a
@@ -79,7 +79,7 @@ usable on multiple devices.
 _Computer Programmer  
 Core technologies -- Java, HTML, CSS, Javascript, Oracle 11g, Git  
 Sep 2012 – Apr 2014  
-Toronto, ON_
+Toronto, Canada_
 
 - Learned the fundamental principles of successful software engineering and how to work well in a team.
 - My classes emphasized object-oriented programming in Java, along with HTML/CSS/Javascript, Oracle 11g, and a bit of Git.
