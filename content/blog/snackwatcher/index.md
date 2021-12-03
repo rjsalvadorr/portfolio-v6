@@ -15,9 +15,9 @@ description: "Snacks + Machine Vision"
 draft: false
 ---
 
-![yep yep yep](./snackwatcher-setup.jpg "yea")
+![Snackwatcher setup (table + laptop)](./snackwatcher-setup.jpg)
 
-![yep yep yep](./snackwatcher-interface.png "yea")
+![Snackwatcher UI](./snackwatcher-interface.png)
 
 Sometime in late 2015/early 2016, I worked on a neat project while working at the Jonah Group. <!-- more --> When we wanted to share snacks, they would place it on a _snack table_, so fellow devs can enjoy some treats. The project's premise was to install a camera over the snack table, and automatically alert our colleagues whenever a snack was deployed.
 
@@ -43,6 +43,6 @@ Upon joining the SnackWatcher team, I worked on the user-facing parts of the sys
 
 It worked! Even if it was easily confused by what we put on the table, it worked!
 
-![yep yep yep](./snackwatcher-slack.png "yep yep")
+![Snackwatcher slack channel](./snackwatcher-slack.png)
 
 For more details, feel free to check out the [GitHub repo](https://github.com/jonahgroup/SnackWatcher) and [blog](https://jonahgroup.github.io/SnackWatcher/) for the project.

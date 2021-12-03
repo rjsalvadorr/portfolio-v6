@@ -14,7 +14,7 @@ description: "Infographics on the Toronto Raptors' path to a championship"
 draft: false
 ---
 
-![yep yep yep](./demo.gif "yea")
+![The Rise of the Raptors](./demo.gif)
 
 2019 was a special year for Toronto Raptors fans. After going to the championship parade, I decided to try and use data visualization to tell the story of the Raptors' path to a championship.
 

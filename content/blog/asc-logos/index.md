@@ -16,13 +16,11 @@ To learn more, check out the GBC Architectural Studies Collective homepage at [g
 
 ## Process
 
-I had been doing a lot of CAD homework and reading blueprints, so architectural graphics were fresh in my head. The club acronym "ASC" The first round of sketches produced these three candidates:
+I had been doing a lot of CAD homework and reading blueprints, so architectural graphics were fresh in my head. The first round of sketches produced these three candidates:
 
 ![Initial sketches](./initial-sketches.jpg)
 
-The basic ideas for each sketch:
-
-1. The triangle + dimensions imply a ramp or roof. I felt that tilting the logo provides an "upwards" motion to the dimension arrows.
+1. The triangle + dimensions imply a ramp or roof. I felt that tilting the logo provides an "upwards" motion to the dimension arrows. (the club acronym "ASC" could also imply "ascent")
 1. The stylized "C" is decorated with centre lines, another common feature of architectural/engineering graphics
 1. The third logo incorporates a scale and dimension lines, plus a square. The design is meant to evoke the view of a draftsperson measuring something on a sheet.
 
@@ -30,7 +28,7 @@ These sketches were then refined on Illustrator:
 
 ![Illustrator first draft](./v1.png)
 
-And asked my fellow club execs to vote, and logo #3 won the groupchat design competition. I then got to work with playing with the colour scheme, and finding a typeface for the club's wordmark.
+Then I asked my fellow club execs to vote for the logo we wanted, and logo #3 won the groupchat design competition. I then got to work with playing with the colour scheme, and finding a typeface for the club's wordmark.
 
 ![Colourways](./colour-example.png)
 ![Wordmark](./wordmark.png)

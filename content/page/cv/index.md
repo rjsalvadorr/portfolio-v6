@@ -11,7 +11,7 @@ draft: false
 #### Intermediate Front-End Developer
 
 email -- [randolph.salvador@gmail.com](mailto:randolph.salvador@gmail.com)  
-homepage -- [rjsalvadorr.com](http://rjsalvadorr.com/)  
+homepage -- [rjsalvadorr.com](https://rjsalvadorr.com/)  
 linkedin -- [linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr/)  
 github -- [github.com/rjsalvadorr](https://github.com/rjsalvadorr)
 

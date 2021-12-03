@@ -12,4 +12,4 @@ I'm a front-end developer and aspiring designer from Toronto, Canada. With over 
 
 When I'm away from work, I'm usually playing guitar, training at a climbing gym, or designing something to satisfy my curiosity. More recently, I've set my sights on architecture. It's a broad field, and feels like a space where I can put all my skills to their best use.
 
-I look forward to making cool stuff by combining my tech experience with fresh design skills.
+I look forward to making cool stuff by combining my tech experience with fresh architectural design skills.

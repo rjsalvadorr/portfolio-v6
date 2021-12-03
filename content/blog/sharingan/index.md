@@ -13,9 +13,9 @@ slug: "sharingan"
 draft: false
 ---
 
-![yep yep yep](./full.jpg "yea")
+![Sharingan paintings (Kakashi, Itachi, Sasuke)](./full.jpg)
 
-![yep yep yep](./sasuke-table.jpg "yea")
+![Work in progress](./sasuke-table.jpg)
 
 This painting series was inspired by the Naruto marathon I watched a few months ago.
 
@@ -38,8 +38,8 @@ They're all acrylic on canvas (24" x 12"), finished with semi-gloss varnish.
 1. Clean up mistakes
 1. Varnish (2 to 3 coats)
 
-![hrm](./kakashi-process.gif)
+![Kakashi (process)](./kakashi-process.gif)
 
-![hrm](./itachi-process-2.gif)
+![Itachi (process)](./itachi-process-2.gif)
 
-![hrm](./sasuke-process.gif)
+![Sasuke (process)](./sasuke-process.gif)

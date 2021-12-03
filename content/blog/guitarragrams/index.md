@@ -13,9 +13,9 @@ description: "Visual reference for guitar chord voicings"
 draft: false
 ---
 
-![yep yep yep](./sketch-1.jpg "yea")
+![Main page sketch](./sketch-1.jpg)
 
-![yep yep yep](./snapshot.png "yea")
+![Main page result](./snapshot.png)
 
 Earlier this year, I was studying chord patterns and wrote them into a document.
 This was a PITA to update, so I made a web app out of it. <!-- more --> I took this opportunity to learn some tech, so I jumped on the Vue bandwagon. I found that the [Vue CLI tools](https://cli.vuejs.org/guide/creating-a-project.html) didn't get in my way,
