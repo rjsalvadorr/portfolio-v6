@@ -5,7 +5,7 @@ module.exports = {
       name: `RJ Salvador`,
       summary: `Web Developer / Architectural Technologist from Toronto, Canada`,
     },
-    image: `/meta-snapshot-20211203.jpg`,
+    image: `meta-snapshot-20211203.jpg`,
     description: `RJ Salvador's Portfolio`,
     siteUrl: `https://rjsalvadorr.com/`,
     social: {
