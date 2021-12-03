@@ -6,7 +6,7 @@ const Layout = ({ location, title, children, className, isPost }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
 
-  console.log(location, title, children, className)
+  // console.log(location, title, children, className)
   const cName = className ? className : '';
 
   return (
