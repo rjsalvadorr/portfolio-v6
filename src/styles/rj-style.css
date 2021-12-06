@@ -185,27 +185,6 @@ a {
   border: 0;
 }
 
-.cv-layout h1,
-.cv-layout h2,
-.cv-layout h3 {
-  color: var(--color-highlight-blastoise);  
-}
-.cv-layout h1:first-of-type {
-  margin-bottom: 0;
-}
-.cv-layout h1 + h4 {
-  margin-top: 0;
-  color: var(--color-highlight-blastoise);
-  font-weight: normal;
-}
-.cv-layout h3 {
-  margin-bottom: var(--space-unit-xs);
-}
-.cv-layout ul li {
-  margin-bottom: var(--space-unit-xs);
-}
-
-
 
 .about-layout h1,
 .about-layout h2,
