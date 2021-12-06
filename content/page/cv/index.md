@@ -31,7 +31,7 @@ I’m seeking a part-time/contract developer role where I can make an impact wit
 
 ## Technical Experience and Education
 
-### Ontario College Advanced Diploma (Architectural Technology),<br/>George Brown College
+### Ontario College Advanced Diploma (Architectural Technology), George Brown College
 
 _Sep 2021 -- Present  
 Toronto, Canada  
@@ -41,7 +41,7 @@ Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
 - Learning how to use design principles, modern building techniques and standards.
 
-### Software Engineer,<br/>Uncharted Software
+### Software Engineer, Uncharted Software
 
 _Nov 2019 -- Apr 2021  
 Toronto, Canada  
@@ -51,7 +51,7 @@ Core technologies -- Ember.js, Node.js, Express, Cytoscape_
 - Focused on improving the efficiency and usability of the UI, which interfaced with a data corpus collected through machine learning.
 - Integrated and maintained modules built by computer scientists and researchers.
 
-### UI Web Developer,<br/>Intelex Technologies
+### UI Web Developer, Intelex Technologies
 
 _Jun 2017 -- Feb 2019  
 Toronto, Canada  
@@ -61,7 +61,7 @@ Core technologies -- React, Node.js, .NET, SQL Server_
 - As our codebase grew, I focused more on maintaining clean architecture and testing standards.
 - Was part of a front-end architecture group that monitored our web app to find areas of improvement.
 
-### Technical Developer,<br/>Jonah Group
+### Technical Developer, Jonah Group
 
 _Sep 2014 -- Nov 2016  
 Toronto, Canada  
@@ -71,7 +71,7 @@ Core technologies -- J2EE, Struts, Spring, jQuery, Oracle 11g_
 - Delivered work under tight deadlines. In one case, I delivered a feature that normally took two months in just three weeks.
 - Ensured that pages conformed to visual specs. Implemented responsive designs to keep pages usable on multiple devices.
 
-### Ontario College Diploma (Computer Programmer),<br/>Humber College
+### Ontario College Diploma (Computer Programmer), Humber College
 
 _Sep 2012 -- Apr 2014  
 Toronto, Canada  
