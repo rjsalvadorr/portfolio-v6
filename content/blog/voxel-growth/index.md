@@ -12,18 +12,18 @@ After discovering a [Visions of Chaos](https://www.softology.com.au/voc.htm) vid
 
 I think the vids are too "busy" to use as web backgrounds, but they're nice to look at.
 
-<video controls>
+<video controls loop>
   <source src="/media/voxel-growth/portfolio-bg-1.mp4" type="video/mp4" />
 </video>
 
-<video controls>
+<video controls loop>
   <source src="/media/voxel-growth/portfolio-bg-2.mp4" type="video/mp4" />
 </video>
 
-<video controls>
+<video controls loop>
   <source src="/media/voxel-growth/portfolio-bg-3.mp4" type="video/mp4" />
 </video>
 
-<video controls>
+<video controls loop>
   <source src="/media/voxel-growth/portfolio-bg-4.mp4" type="video/mp4" />
 </video>
