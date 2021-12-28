@@ -121,6 +121,11 @@ a {
   color: var(--color-highlight-blastoise);
 }
 
+video {
+  width: 100%;
+  margin-bottom: var(--space-unit);
+}
+
 /*/////  CUSTOM CLASSES  /////*/
 
 .main-layout {
