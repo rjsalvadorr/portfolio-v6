@@ -45,7 +45,7 @@ Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 _Nov 2019 -- Apr 2021  
 Toronto, Canada  
-Core technologies -- Ember.js, Node.js, Express, Cytoscape_
+Core technologies -- Ember.js, Node.js, Express, Python, Cytoscape_
  
 - Worked on the UI for an inference engine that helped teams make decisions in extremely complex situations.
 - Focused on improving the efficiency and usability of the UI, which interfaced with a data corpus collected through machine learning.
