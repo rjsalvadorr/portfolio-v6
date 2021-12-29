@@ -17,7 +17,7 @@ draft: false
 
 ## Objective
 
-I’m seeking a part-time/contract developer role where I can make an impact with my technical and design skills. Ideally, my next role makes use of my skills and experience while pursuing further education.
+I’m seeking a part-time/contract developer role where I can make an impact with my technical and design skills. Ideally, my next role lets me use my skills and experience effectively as I pursue further education.
 
 ---
 
