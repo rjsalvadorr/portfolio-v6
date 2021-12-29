@@ -37,7 +37,7 @@ _Sep 2021 -- Present (Apr 2024 exp.)
 Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
-- Helped start a student network for architectural/interior design students (as Treasurer, Architectural Studies Collective)
+- Helped start a student network for architectural/interior design students (Treasurer/Designer/Webmaster, Architectural Studies Collective)
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
 - Learning how to use design principles, modern building techniques and standards.
 
