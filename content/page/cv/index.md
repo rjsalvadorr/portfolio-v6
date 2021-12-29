@@ -17,15 +17,15 @@ draft: false
 
 ## Objective
 
-I’m seeking a part-time/contract developer role where I can make an impact with my technical and design skills. Ideally, my next position lets me make use of my software skills while pursuing a full-time education.
+I’m seeking a part-time/contract developer role where I can make an impact with my technical and design skills. Ideally, my next role makes use of my skills and experience while pursuing further education.
 
 ---
 
 ## Skills and Qualifications
 
-- Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in a full-stack role (J2EE, Oracle 11G).
-- Proficient at solving UI/UX problems, implementing design specs, and ensuring smooth user interaction in applications. Has a good understanding of design processes and methods. Tends to work well with designers and UI/UX professionals.
-- Accustomed to the agile workflow, and is a strong advocate for automated tests, continuous integration, and robust technical documentation.
+- Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G).
+- Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of being realistic when planning, and making sure that the team's time is spent wisely.
+- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design processes and methods. Works well with designers and UI/UX professionals.
 
 ---
 
@@ -33,7 +33,7 @@ I’m seeking a part-time/contract developer role where I can make an impact wit
 
 ### Ontario College Advanced Diploma (Architectural Technology), George Brown College
 
-_Sep 2021 -- Present  
+_Sep 2021 -- Present (Apr 2024 exp.)  
 Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
