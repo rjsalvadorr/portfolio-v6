@@ -10,10 +10,14 @@ draft: false
 
 #### Intermediate Front-End Developer
 
-[randolph.salvador@gmail.com](mailto:randolph.salvador@gmail.com)  
+[salvador.workshop@gmail.com](mailto:salvador.workshop@gmail.com)  
+[salvador-workshop.ca](https://salvador-workshop.ca/)  
+[github.com/salvador-workshop](https://github.com/salvador-workshop)
+
+Personal pages:  
 [rjsalvadorr.com](https://rjsalvadorr.com/)  
+[github.com/rjsalvadorr](https://github.com/rjsalvadorr)  
 [linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr/)  
-[github.com/rjsalvadorr](https://github.com/rjsalvadorr)
 
 ## Objective
 
@@ -31,9 +35,19 @@ I’m seeking a part-time/contract developer role where I can make an impact wit
 
 ## Technical Experience and Education
 
+### Founder, Salvador Workshop
+
+_Jan 2022 -- Present  
+Toronto, Canada  
+Core technologies -- Software dev't tools (JS, Node, React, Python, etc) with design/drafting tools (Illustrator, AutoCAD, SketchUp, etc)_
+
+- Founded a digital media workshop recently, to represent myself (and future like-minded teammates).
+- Salvador Workshop aims to become a cross-functional design practice that solves a variety of technical and design problems.
+- For now, the shop's work will be focused on software development (with design work to come in the future).
+
 ### Ontario College Advanced Diploma (Architectural Technology), George Brown College
 
-_Sep 2021 -- Present (Apr 2024 exp.)  
+_Sep 2021 -- Present (Apr 2024 expected)  
 Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 

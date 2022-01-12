@@ -30,7 +30,7 @@
   width: var(--header-icon-height);
 }
 .header .header-text-wrapper {
-  padding-top: var(--space-unit-sm);
+  padding-top: calc(var(--space-unit-xs) / 2);
   flex: 1 1 auto;
 }
 .header .header-title {
@@ -43,10 +43,8 @@
 }
 .header .header-text {
   font-size: var(--text-size-sm);
-  line-height: 1;
-  position: relative;
+  line-height: 1.33;
   display: inline-block;
-  bottom: var(--space-unit-xs);
   letter-spacing: 1.25px;
 }
 
