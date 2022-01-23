@@ -41,7 +41,6 @@ _Jan 2022 -- Present
 Toronto, Canada  
 Core technologies -- Software dev't tools (JS, Node, React, Python, etc) with design/drafting tools (Illustrator, AutoCAD, SketchUp, etc)_
 
-- Founded a digital media workshop recently, to represent myself (and future like-minded teammates).
 - Salvador Workshop aims to become a cross-functional design practice that solves a variety of technical and design problems.
 - For now, the shop's work will be focused on software development (with design work to come in the future).
 
