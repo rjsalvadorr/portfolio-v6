@@ -11,10 +11,6 @@ draft: false
 #### Intermediate Front-End Developer
 
 [salvador.workshop@gmail.com](mailto:salvador.workshop@gmail.com)  
-[salvador-workshop.ca](https://salvador-workshop.ca/)  
-[github.com/salvador-workshop](https://github.com/salvador-workshop)
-
-Personal pages:  
 [rjsalvadorr.com](https://rjsalvadorr.com/)  
 [github.com/rjsalvadorr](https://github.com/rjsalvadorr)  
 [linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr/)  
