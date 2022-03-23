@@ -21,7 +21,7 @@ Personal pages:
 
 ## Objective
 
-I’m seeking a part-time/contract developer role where I can make an impact with my technical and design skills. Ideally, my next role lets me use my skills and experience effectively as I pursue further education.
+I’m seeking a software developer role where I can make an impact with my technical and design skills. Ideally, my next role lets me use my skills and experience effectively as I pursue further education.
 
 ---
 
@@ -35,22 +35,13 @@ I’m seeking a part-time/contract developer role where I can make an impact wit
 
 ## Technical Experience and Education
 
-### Founder, Salvador Workshop
-
-_Jan 2022 -- Present  
-Toronto, Canada  
-Core technologies -- Software dev't tools (JS, Node, React, Python, etc) with design/drafting tools (Illustrator, AutoCAD, SketchUp, etc)_
-
-- Salvador Workshop aims to become a cross-functional design practice that solves a variety of technical and design problems.
-- For now, the shop's work will be focused on software development (with design work to come in the future).
-
 ### Ontario College Advanced Diploma (Architectural Technology), George Brown College
 
 _Sep 2021 -- Present (Apr 2024 expected)  
 Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
-- Helped start a student network for architectural/interior design students (Treasurer/Designer/Webmaster, Architectural Studies Collective)
+- Helped start a student network for architectural/interior design students (Designer/Webmaster, Architectural Studies Collective)
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
 - Learning how to use design principles, modern building techniques and standards.
 
