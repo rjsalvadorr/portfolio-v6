@@ -25,7 +25,7 @@ I’m seeking a software developer role where I can make an impact with my techn
 
 - Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G).
 - Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of being realistic when planning, and making sure that the team's time is spent wisely.
-- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design processes and methods. Works well with designers and UI/UX professionals.
+- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator).
 
 ---
 
@@ -47,7 +47,7 @@ _Nov 2019 -- Apr 2021
 Toronto, Canada  
 Core technologies -- Ember.js, Node.js, Express, Python, Cytoscape_
  
-- Worked on the UI for an inference engine that helped teams make decisions in extremely complex situations.
+- Worked on a data visualization UI for an inference engine that helped to uncover insights in complex networks.
 - Focused on improving the efficiency and usability of the UI, which interfaced with a data corpus collected through machine learning.
 - Integrated and maintained modules built by computer scientists and researchers.
 
@@ -57,7 +57,7 @@ _Jun 2017 -- Feb 2019
 Toronto, Canada  
 Core technologies -- React, Node.js, .NET, SQL Server_ 
 
-- Developed and maintained a new UI for an application catering to the Environment, Health, Safety, and Quality industry.
+- Helped build a new UI for an application catering to the Environment, Health, Safety, and Quality industry.
 - As our codebase grew, I focused more on maintaining clean architecture and testing standards.
 - Was part of a front-end architecture group that monitored our web app to find areas of improvement.
 
