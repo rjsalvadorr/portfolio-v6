@@ -1,3 +1,11 @@
+---
+title: Cover Letter (generic)
+date: 2022-04-14 12:00:00
+category: page
+slug: "cv-generic"
+draft: true
+---
+
 Hi, my name is RJ and I'm inquiring about available software roles in your organization. If your organization needs help with front-end engineering, then I believe my skills and experience can help you.
 
 Having worked in web development for six years, I have hands on experience with several tools and frameworks (mostly JavaScript, Python, Java). Across different projects, I have first-hand experience of most stages of the SDLC (kickoff, deployment, maintenance). During that time, I've learned to work effectively with non-technical and technical colleagues, especially design and UX teams. I've had a strong interest in visual arts since high school and I'm familiar with design tools, techniques, and methods.
