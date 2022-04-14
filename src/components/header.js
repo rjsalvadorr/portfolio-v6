@@ -13,7 +13,7 @@ const Header = ({ isHome, isPost }) => (
         </div>
         <div className="header-text-wrapper">
           <h4 className="header-title">RJ Salvador</h4>
-          <span className="header-text">Web developer, designer,<br /> founder of <a href="https://salvador-workshop.ca">Salvador Workshop</a></span>
+          <span className="header-text">Front-end Developer, Architecture Student</span>
         </div>
       </div>
       <NavigationToolbar isHome={isHome} isPost={isPost} />

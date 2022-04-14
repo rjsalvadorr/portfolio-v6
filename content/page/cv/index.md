@@ -8,30 +8,30 @@ draft: false
 
 # RJ Salvador
 
-#### Intermediate Front-End Developer
+#### Front-End Developer
 
 [salvador.workshop@gmail.com](mailto:salvador.workshop@gmail.com)  
-[rjsalvadorr.com](https://rjsalvadorr.com/)  
+[rjsalvadorr.com](https://rjsalvadorr.com)  
 [github.com/rjsalvadorr](https://github.com/rjsalvadorr)  
-[linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr/)  
+[linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr)
 
 ## Objective
 
-I’m seeking a software developer role where I can make an impact with my technical and design skills. Ideally, my next role lets me use my skills and experience effectively as I pursue further education.
+I’m seeking a front-end engineering role where I can make an impact with my technical and design skills. As my career progresses, I'm looking to specialize in UX development, data visualization, and 3D web content.
 
 ---
 
 ## Skills and Qualifications
 
 - Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G).
-- Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of being realistic when planning, and making sure that the team's time is spent wisely.
+- Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of healthy team dynamics, and tries to communicate effectively with technical and non-technical colleagues.
 - Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator).
 
 ---
 
 ## Technical Experience and Education
 
-### Ontario College Advanced Diploma (Architectural Technology), George Brown College
+### Ontario College Diploma (Architectural Technology), George Brown College
 
 _Sep 2021 -- Present (Apr 2024 expected)  
 Toronto, Canada  
@@ -39,7 +39,7 @@ Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 - Helped start a student network for architectural/interior design students (Designer/Webmaster, Architectural Studies Collective)
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
-- Learning how to use design principles, modern building techniques and standards.
+- Learning how to design as a professional, with knowledge of architectural principles, building techniques, and construction standards.
 
 ### Software Engineer, Uncharted Software
 
@@ -48,7 +48,7 @@ Toronto, Canada
 Core technologies -- Ember.js, Node.js, Express, Python, Cytoscape_
  
 - Worked on a data visualization UI for an inference engine that helped to uncover insights in complex networks.
-- Focused on improving the efficiency and usability of the UI, which interfaced with a data corpus collected through machine learning.
+- Focused on improving the design and performance of the UI, which interfaced with a data corpus collected through machine learning.
 - Integrated and maintained modules built by computer scientists and researchers.
 
 ### UI Web Developer, Intelex Technologies
@@ -58,7 +58,7 @@ Toronto, Canada
 Core technologies -- React, Node.js, .NET, SQL Server_ 
 
 - Helped build a new UI for an application catering to the Environment, Health, Safety, and Quality industry.
-- As our codebase grew, I focused more on maintaining clean architecture and testing standards.
+- As our codebase grew, I focused more on maintaining clean architecture and code quality standards.
 - Was part of a front-end architecture group that monitored our web app to find areas of improvement.
 
 ### Technical Developer, Jonah Group
