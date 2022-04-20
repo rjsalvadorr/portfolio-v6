@@ -47,7 +47,7 @@ _Nov 2019 -- Apr 2021
 Toronto, Canada  
 Core technologies -- Ember.js, Node.js, Express, Python, Cytoscape_
  
-- Worked on a data visualization UI for an inference engine that helped to uncover insights in complex networks.
+- Worked on a research project featuring a data visualization UI which helped uncover insights in complex networks.
 - Focused on improving the design and performance of the UI, which interfaced with a data corpus collected through machine learning.
 - Integrated and maintained modules built by computer scientists and researchers.
 
