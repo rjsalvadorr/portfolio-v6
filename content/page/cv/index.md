@@ -23,9 +23,9 @@ I’m seeking a front-end engineering role where I can make an impact with my te
 
 ## Skills and Qualifications
 
-- Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G).
-- Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of healthy team dynamics, and tries to communicate effectively with technical and non-technical colleagues.
-- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator).
+- Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G). Accustomed to navigating complex codebases and learning unfamiliar software tools quickly.
+- Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of healthy team dynamics, and communicates effectively with technical and non-technical colleagues.
+- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator, Photoshop).
 
 ---
 
@@ -45,7 +45,7 @@ Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 _Nov 2019 -- Apr 2021  
 Toronto, Canada  
-Core technologies -- Ember.js, Node.js, Express, Python, Cytoscape_
+Core technologies -- Ember.js, Cytoscape, Node.js, Express, Python, AWS_
  
 - Worked on a research project featuring a data visualization UI which helped uncover insights in complex networks.
 - Focused on improving the design and performance of the UI, which interfaced with a data corpus collected through machine learning.
@@ -55,17 +55,17 @@ Core technologies -- Ember.js, Node.js, Express, Python, Cytoscape_
 
 _Jun 2017 -- Feb 2019  
 Toronto, Canada  
-Core technologies -- React, Node.js, .NET, SQL Server_ 
+Core technologies -- React, Node.js, .NET, SQL Server, Jenkins_ 
 
 - Helped build a new UI for an application catering to the Environment, Health, Safety, and Quality industry.
 - As our codebase grew, I focused more on maintaining clean architecture and code quality standards.
 - Was part of a front-end architecture group that monitored our web app to find areas of improvement.
 
-### Technical Developer, Jonah Group
+### Technical Developer (Full-Stack), Jonah Group
 
 _Sep 2014 -- Nov 2016  
 Toronto, Canada  
-Core technologies -- J2EE, Struts, Spring, jQuery, Oracle 11g_
+Core technologies -- jQuery, J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins_
 
 - Delivered features for our client, RouteOne. Their web app helped car dealers streamline credit applications for vehicles. At the time, their system connected 18,000+ dealerships with 1,400+ finance sources.
 - Delivered work under tight deadlines. In one case, I delivered a feature that normally took two months in just three weeks.
