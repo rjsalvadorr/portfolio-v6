@@ -39,7 +39,7 @@ Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 - Helped start a student network for architectural/interior design students (Designer/Webmaster, Architectural Studies Collective)
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
-- Learning how to design as a professional, with knowledge of architectural principles, building techniques, and construction standards.
+- Learning how to apply architectural principles, building techniques, and construction standards.
 
 ### Software Engineer, Uncharted Software
 
@@ -61,7 +61,7 @@ Core technologies -- React, Node.js, .NET, SQL Server, Jenkins_
 - As our codebase grew, I focused more on maintaining clean architecture and code quality standards.
 - Was part of a front-end architecture group that monitored our web app to find areas of improvement.
 
-### Technical Developer (Full-Stack), Jonah Group
+### Technical Developer, Jonah Group
 
 _Sep 2014 -- Nov 2016  
 Toronto, Canada  
@@ -75,7 +75,7 @@ Core technologies -- jQuery, J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkin
 
 _Sep 2012 -- Apr 2014  
 Toronto, Canada  
-Core technologies -- Java, HTML, CSS, Javascript, Oracle 11g, Git_
+Core technologies -- Java, HTML, CSS, JavaScript, Oracle 11g, Git_
 
 - Learned the fundamental principles of successful software engineering and how to work well in a team.
 - My classes emphasized object-oriented programming in Java, along with HTML/CSS/Javascript, Oracle 11g, and a bit of Git.
