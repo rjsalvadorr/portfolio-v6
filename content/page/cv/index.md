@@ -25,21 +25,29 @@ I’m seeking a front-end engineering role where I can make an impact with my te
 
 - Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G). Accustomed to navigating complex codebases and learning unfamiliar software tools quickly.
 - Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of healthy team dynamics, and communicates effectively with technical and non-technical colleagues.
-- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator, Photoshop).
+- Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator).
 
 ---
 
 ## Technical Experience and Education
 
-### Ontario College Diploma (Architectural Technology), George Brown College
+### Senior Associate (Experience Technology), Publicis Sapient
 
-_Sep 2021 -- Present (Apr 2024 expected)  
+_May 2022 -- Present  
+Toronto, Canada  
+Core technologies -- React, Node.js, Typescript, Next.js, Nx, AEM, GraphQL_
+
+- Helped build a new web application for a leading healthcare provider in the USA.
+- Worked with a large cross-functional team, regularly integrating software with multiple groups (client-side and internal).
+
+### Continuing Education (Architectural Technology), George Brown College
+
+_Sep 2021 -- Aug 2023  
 Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 - Helped start a student network for architectural/interior design students (Designer/Webmaster, Architectural Studies Collective)
 - Learning to work with 2D and 3D graphics at a demanding level of precision.
-- Learning how to apply architectural principles, building techniques, and construction standards.
 
 ### Software Engineer, Uncharted Software
 
@@ -47,9 +55,8 @@ _Nov 2019 -- Apr 2021
 Toronto, Canada  
 Core technologies -- Ember.js, Cytoscape, Node.js, Express, Python, AWS_
  
-- Worked on a research project featuring a data visualization UI which helped uncover insights in complex networks.
-- Focused on improving the design and performance of the UI, which interfaced with a data corpus collected through machine learning.
-- Integrated and maintained modules built by computer scientists and researchers.
+- Worked on a research project featuring a data visualization UI which helped uncover insights in complex networks. This involved interfacing with a data corpus organized through machine learning.
+- Improved the design and performance of the app. Also integrated and maintained modules built by computer scientists and researchers.
 
 ### UI Web Developer, Intelex Technologies
 
@@ -58,8 +65,7 @@ Toronto, Canada
 Core technologies -- React, Node.js, .NET, SQL Server, Jenkins_ 
 
 - Helped build a new UI for an application catering to the Environment, Health, Safety, and Quality industry.
-- As our codebase grew, I focused more on maintaining clean architecture and code quality standards.
-- Was part of a front-end architecture group that monitored our web app to find areas of improvement.
+- Over time, I focused more on maintaining quality standards. Was in a front-end architecture group that monitored our web app to find areas of improvement.
 
 ### Technical Developer, Jonah Group
 
@@ -68,7 +74,6 @@ Toronto, Canada
 Core technologies -- jQuery, J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins_
 
 - Delivered features for our client, RouteOne. Their web app helped car dealers streamline credit applications for vehicles. At the time, their system connected 18,000+ dealerships with 1,400+ finance sources.
-- Delivered work under tight deadlines. In one case, I delivered a feature that normally took two months in just three weeks.
 - Ensured that pages conformed to visual specs. Implemented responsive designs to keep pages usable on multiple devices.
 
 ### Ontario College Diploma (Computer Programmer), Humber College
@@ -84,4 +89,4 @@ Core technologies -- Java, HTML, CSS, JavaScript, Oracle 11g, Git_
 
 ## About Me
 
-When I'm away from work, I'm usually playing guitar, training at a climbing gym, or designing something to satisfy my curiosity.
+When I'm away from work, I'm usually playing guitar, training at a climbing gym, or designing something for fun.
