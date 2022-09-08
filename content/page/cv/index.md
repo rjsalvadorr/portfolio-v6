@@ -23,7 +23,7 @@ I’m seeking a front-end engineering role where I can make an impact with my te
 
 ## Skills and Qualifications
 
-- Experienced and familiar with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G). Accustomed to navigating complex codebases and learning unfamiliar software tools quickly.
+- Experienced with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, Python, Oracle 11G). Accustomed to navigating complex codebases and learning unfamiliar software tools quickly.
 - Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience to help plan portions of projects. Understands the value of healthy team dynamics, and communicates effectively with technical and non-technical colleagues.
 - Proficient at solving UI/UX problems, implementing designs to spec, and ensuring smooth UX in applications. Has a good understanding of design/UX processes and methods (Figma, Illustrator).
 
@@ -37,7 +37,7 @@ _May 2022 -- Present
 Toronto, Canada  
 Core technologies -- React, Node.js, Typescript, Next.js, Nx, AEM, GraphQL_
 
-- Helped build a new web application for a leading healthcare provider in the USA.
+- Helped build a new web application for a leading healthcare provider in the US.
 - Worked with a large cross-functional team, regularly integrating software with multiple groups (client-side and internal).
 
 ### Continuing Education (Architectural Technology), George Brown College
