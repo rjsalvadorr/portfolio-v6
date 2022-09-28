@@ -3,7 +3,7 @@ module.exports = {
     title: `Portfolio - RJ Salvador`,
     author: {
       name: `RJ Salvador`,
-      summary: `Web Developer / Architectural Technologist from Toronto, Canada`,
+      summary: `Software Engineer from Toronto, Canada`,
     },
     image: `/meta-snapshot-20211203.jpg`,
     description: `RJ Salvador's Portfolio`,

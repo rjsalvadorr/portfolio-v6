@@ -67,6 +67,8 @@ Core technologies -- jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, J
 - Built webpages that allowed car dealers to do their customers' credit applications online. This linked their users directly to a system with 18,000+ dealerships with 1,400+ finance sources.
 - Ensured that webpages conformed to the responsive visual specs. This allowed our app to be usable on several browsers and device types.
 
+---
+
 ## Technical Education
 
 ### Continuing Education (Architectural Technology), George Brown College
