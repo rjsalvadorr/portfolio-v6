@@ -17,27 +17,29 @@ draft: false
 
 ## Objective
 
-I’m seeking a front-end/full-stack engineering role where I can make an impact with my technical and design skills. As my career progresses, I'm looking to develop skills in UX development, data visualization, and 3D web content.
+I'm seeking web development roles where I can leverage my full-stack experience to make a positive impact. I've been working in tech since 2014 with a strong focus on the front-end, UI/UX, data visualization, and 3D modeling.
 
 ---
 
 ## Skills and Qualifications
 
-- Experienced with several software platforms and frameworks, having worked for four years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, .NET, Python). Accustomed to navigating complex codebases and learning unfamiliar tools quickly.
-- Has first-hand experience with most stages of the SDLC, from kickoff, to delivery, to maintenance. Has leveraged that experience for various business contexts, such as understanding technical feasibility or helping plan project roadmaps.
-- Proficient at implementing UI designs to spec and solving UX problems. Has a strong understanding of design/UX processes and methods (Figma, Illustrator). Works well with designers, having grown up with artists while studying art until college.
+- Experienced with several web development platforms and frameworks, having worked for five years in front-end roles (React, Ember), plus two years in full-stack roles (J2EE, .NET, Python). Accustomed to navigating complex codebases and learning unfamiliar tools quickly.
+- Proficient at implementing UI designs to spec and solving UX problems. Has a strong understanding of design/UX processes, methods (Figma, Illustrator), and design systems.
+- Has first-hand experience with most stages of the software development lifecycle, from kickoff, to delivery, to maintenance. Has leveraged that experience to understand technical feasibility and help plan project roadmaps.
 
 ---
 
 ## Technical Experience
 
-### Senior Associate (Experience Technology), Publicis Sapient
+### Senior Software Engineer, Autodesk Construction Solutions
 
-_May 2022 -- Sep 2022  
-Toronto, Canada  
-Core technologies -- React, Next.js, Nx, Typescript, Storybook, AEM_
+_Nov 2022 -- Jan 2024  
+Remote  
+Core technologies -- React, Node.js, Revit, ADSK Construction Cloud/BIM360, ADSK Viewer/Forge/LMV_
 
-- As part of the kick-off dev team, helped lay the technical foundations of a forward-looking app for a leading healthcare provider. These foundations allowed for rapid component development even while dependent design system assets lagged in delivery.
+- Worked in the team behind Autodesk Takeoff, a web-based takeoff and estimation tool for 2D sheets and 3D models. Takeoff is part of Autodesk Construction Cloud, a platform of apps for managing a building's design, construction, and operation.
+- Focused on improving the app's UX through implementing new functionality, reworking existing elements, or refactoring "under the hood".
+- Leveraged in-house component libraries to build new UI modules. Collaborated with design system experts to keep implementation consistent with the rest of the platform.
 
 ### Software Engineer, Uncharted Software
 
@@ -45,9 +47,9 @@ _Nov 2019 -- Apr 2021
 Toronto, Canada  
 Core technologies -- Ember.js, Cytoscape, Node.js, Express, Python, AWS_
  
-- Worked on a research project featuring a network graph visualization that helped uncover insights in complex scenarios.
-- Responsible for integrating a graph analysis module built by researchers at Virginia Tech. This module described a modeled scenario with natural language, which gave users another way to interpret complex data.
-- Reworked front-end components to improve visuals and performance. This aligned the UI closer to the company design system, and reduced UX jankiness while rendering more visual data.
+- Worked on Causeworks, a research project featuring a network graph visualization that helped uncover insights in complex scenarios.
+- Integrated a graph analysis module built by researchers at Virginia Tech. This module described a modeled scenario with natural language, giving users another way to interpret complex data.
+- Reworked front-end components to improve visuals and performance. This aligned the UI closer to the company design system, reduced UX jankiness, and rendered more visual data.
 
 ### UI Web Developer, Intelex Technologies
 
@@ -55,8 +57,8 @@ _Jun 2017 -- Feb 2019
 Toronto, Canada  
 Core technologies -- React, .NET, SQL Server, Jenkins_ 
 
-- Helped build a new React.js UI for an existing legacy app for the EHSQ industry, allowing health and safety professionals to share industry knowledge and show new ways to use familiar Intelex tools.
-- Gradually focused more on improving code quality standards as the codebase grew. Was part of a front-end working group that released guidelines for code style and structure, which proved useful for future refactoring.
+- Helped build a new React UI on a legacy app for the EHSQ industry. This allowed health and safety professionals to share industry knowledge about using Intelex tools.
+- Gradually focused on improving code quality standards as the codebase grew. Was part of a front-end working group that released guidelines for code style and structure, which proved useful for future refactoring.
 
 ### Technical Developer, Jonah Group
 
@@ -73,7 +75,7 @@ Core technologies -- jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, J
 
 ### Continuing Education (Architectural Technology), George Brown College
 
-_Sep 2021 -- Aug 2023  
+_Sep 2021 -- Apr 2024  
 Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
@@ -93,4 +95,4 @@ Core technologies -- Java, HTML, CSS, JavaScript, Oracle 11g, Git_
 
 ## About Me
 
-When I'm away from work, I'm usually playing guitar, training at a climbing gym, or designing something for fun.
+When I'm away from work, I'm usually playing music (bass/cello/guitar) or hanging out at a climbing gym.
