@@ -10,7 +10,7 @@ tags:
 description: Anime fanart painting series
 thumbnail: media/sharingan/thumb.jpg
 slug: "sharingan"
-draft: false
+draft: true
 ---
 
 ![Sharingan paintings (Kakashi, Itachi, Sasuke)](./full.jpg)
