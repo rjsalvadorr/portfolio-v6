@@ -21,6 +21,8 @@ draft: false
 
 Two brothers tried to make a Zelda-esque platformer, and they caught a glimpse of development hell.
 
+<!-- more -->
+
 Sometime around winter 2012, I used my new-found C++ skills to make a simple 2D game, like the Nintendo classics. My brother Mike offered to help with his art skills. So the BroQuest began.
 
 ## Tools used
