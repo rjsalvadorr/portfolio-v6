@@ -4,9 +4,13 @@ import Card from "./card"
 
 const HomeFeed = ({ posts }) => (
   <div className="home-feed">
-    {posts.map(post => (
-      <Card post={post} key={post.fields.slug} />
-    ))}
+    {posts.map(post => {
+      let returnComp = null;
+      if (!post.frontmatter.draft) {
+        returnComp = <Card post={post} key={post.fields.slug} />;
+      }
+      return returnComp;
+    })}
   </div>
 )
 

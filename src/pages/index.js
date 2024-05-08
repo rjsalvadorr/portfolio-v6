@@ -8,6 +8,7 @@ import HomeFeed from "../components/home-feed"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMdx.nodes
+  // console.log(posts)
 
   if (posts.length === 0) {
     return (
@@ -54,6 +55,7 @@ export const pageQuery = graphql`
           category
           description
           thumbnail
+          draft
         }
       }
     }
