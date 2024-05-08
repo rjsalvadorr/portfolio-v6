@@ -46,7 +46,7 @@ const Card = ({ post }) => {
             </Link>
           </h2>
           <p className="card-data">
-            {post.frontmatter.category}
+            <span className="card-category">{post.frontmatter.category}</span>
             <span className="text-spacer">//</span>
             {post.frontmatter.date}
           </p>
