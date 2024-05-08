@@ -1,5 +1,5 @@
 ---
-title: guitarragrams
+title: guitarragrams v1
 subtitle: Guitar chord diagrams
 date: 2018-09-23 18:02:06
 template: post

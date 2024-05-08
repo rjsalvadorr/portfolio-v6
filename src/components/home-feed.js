@@ -4,7 +4,10 @@ import Card from "./card"
 
 const HomeFeed = ({ posts }) => (
   <div className="home-feed">
-    {posts.map(post => (
+    {/* {posts.map(post => (
+      <Card post={post} key={post.fields.slug} />
+    ))} */}
+    {posts.filter(post => post.frontmatter.draft == false).map(post => (
       <Card post={post} key={post.fields.slug} />
     ))}
   </div>
