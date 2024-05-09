@@ -1,7 +1,7 @@
 ---
 title: Architecture Tech, Revit 2
 subtitle:
-date: 2023-01-01 18:02:06
+date: 2023-07-23 18:02:06
 template: post
 category: school
 tags:
