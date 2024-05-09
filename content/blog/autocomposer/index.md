@@ -17,7 +17,7 @@ draft: false
 
 ![Main page result](./snapshot.png)
 
-I've always wanted to make software that did something with music. <!-- more --> That led me to play with JS libraries out there that can handle music theory, playback, and notation. Slowly, I started to think of ways to tie this all together to build an automatic music composer.
+I've always wanted to make software that did something with music. That led me to play with JS libraries out there that can handle music theory, playback, and notation. Slowly, I started to think of ways to tie this all together to build an automatic music composer.
 
 I had a few features in mind when building this:
 
