@@ -11,7 +11,6 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
-
   const rjImg = (props) => <img {...props} className="blegh-yeeeeuurr" />
   const components = {
     img: rjImg,
