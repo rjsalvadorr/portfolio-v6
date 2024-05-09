@@ -14,3 +14,25 @@ draft: false
 ---
 
 ...
+
+![Main page sketch](./01-perspective.jpg)
+
+...
+
+![Main page sketch](./02-elevation.jpg)
+
+...
+
+![Main page sketch](./03-1f-plan.jpg)
+
+...
+
+![Main page sketch](./04-2f-plan.jpg)
+
+...
+
+![Main page sketch](./05-section-1.jpg)
+
+...
+
+![Main page sketch](./06-section-2.jpg)

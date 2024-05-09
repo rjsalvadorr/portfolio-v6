@@ -14,3 +14,25 @@ draft: false
 ---
 
 ...
+
+![Main page sketch](./a1-a.jpg)
+
+...
+
+![Main page sketch](./a2-a.jpg)
+
+...
+
+![Main page sketch](./a3.jpg)
+
+...
+
+![Main page sketch](./a4-a.jpg)
+
+...
+
+![Main page sketch](./a5-a.jpg)
+
+...
+
+![Main page sketch](./a6-a.jpg)
