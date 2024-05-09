@@ -17,6 +17,7 @@ import "./src/styles/navigation-toolbar.css"
 import "./src/styles/card.css"
 import "./src/styles/responsive.css"
 import "./src/styles/cv.css"
+import "./src/styles/about.css"
 
 // Highlighting for code blocks
 import "prismjs/themes/prism.css"

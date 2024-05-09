@@ -1,5 +1,5 @@
 ---
-title: guitarragrams
+title: guitarragrams v1
 subtitle: Guitar chord diagrams
 date: 2018-09-23 18:02:06
 template: post
@@ -18,7 +18,7 @@ draft: false
 ![Main page result](./snapshot.png)
 
 Earlier this year, I was studying chord patterns and wrote them into a document.
-This was a PITA to update, so I made a web app out of it. <!-- more --> I took this opportunity to learn some tech, so I jumped on the Vue bandwagon. I found that the [Vue CLI tools](https://cli.vuejs.org/guide/creating-a-project.html) didn't get in my way,
+This was a PITA to update, so I made a web app out of it. I took this opportunity to learn some tech, so I jumped on the Vue bandwagon. I found that the [Vue CLI tools](https://cli.vuejs.org/guide/creating-a-project.html) didn't get in my way,
 and the Vue documentation made for a gentle learning curve.
 
 ## Tools used

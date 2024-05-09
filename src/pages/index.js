@@ -54,6 +54,7 @@ export const pageQuery = graphql`
           category
           description
           thumbnail
+          draft
         }
       }
     }

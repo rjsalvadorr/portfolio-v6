@@ -24,6 +24,8 @@ overrides the 1st layer from "style.css".
   --color-post-content-blastoise: rgba(74, 74, 74, 0.94);
   --color-highlight-blastoise: #D5AC4A;
   --color-bg-blastoise: #083962;
+  
+  --color-text-highlight: #9cafc0;
 
   --space-unit: 24px;
   --space-unit-3q: calc(var(--space-unit) * 0.75);
