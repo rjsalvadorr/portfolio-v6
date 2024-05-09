@@ -25,7 +25,7 @@ Without a system like CauseWorks, complex scenarios were laid out by military pl
 
 ## Analysis examples
 
-An approach analysis is shown on the side panel. We can see defineed user objectives and the system suggests potential interventions for achieving them.
+An approach analysis is shown on the side panel. We can see defined user objectives and the system suggests potential interventions for achieving them.
 
 ![Approach analysis screen](./cw-06-approach.jpg)
 
