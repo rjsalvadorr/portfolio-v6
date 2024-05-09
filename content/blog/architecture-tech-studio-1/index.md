@@ -36,5 +36,3 @@ All sheets are tabloid sized (17" x 11"), with my title blocks done in AutoCAD.
 ## Kitchen Elevations/Sections
 
 ![Kitchen sections 1](./a5-a.jpg)
-
-![Kitchen sections 2](./a6-a.jpg)
