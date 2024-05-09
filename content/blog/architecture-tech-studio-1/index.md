@@ -23,18 +23,18 @@ All sheets are tabloid sized (17" x 11"), with my title blocks done in AutoCAD.
 
 ## Wall Sections
 
-![Main page sketch](./a1-a.jpg)
+![Wall Section 1](./a1-a.jpg)
 
-![Main page sketch](./a2-a.jpg)
+![Wall Section 2](./a2-a.jpg)
 
-![Main page sketch](./a3.jpg)
+![Wall Section 3](./a3.jpg)
 
 ## Kitchen/Bathroom Plan
 
-![Main page sketch](./a4-a.jpg)
+![Kitchen/Bathroom Plan](./a4-a.jpg)
 
 ## Kitchen Elevations/Sections
 
-![Main page sketch](./a5-a.jpg)
+![Kitchen sections 1](./a5-a.jpg)
 
-![Main page sketch](./a6-a.jpg)
+![Kitchen sections 2](./a6-a.jpg)

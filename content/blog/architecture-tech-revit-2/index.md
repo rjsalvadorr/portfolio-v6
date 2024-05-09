@@ -22,24 +22,24 @@ Here's a few shots of my final project for a Revit 2 class at George Brown Colle
 
 ## Renders, Elevation
 
-![Main page sketch](./01-renders.jpg)
+![Manor House - rendered scenes](./01-renders.jpg)
 
-![Main page sketch](./06-elevation.jpg)
+![Manor House - front elevation](./06-elevation.jpg)
 
 ## Plans
 
-![Main page sketch](./02-site.jpg)
+![Manor House - site plan](./02-site.jpg)
 
-![Main page sketch](./03-1f-plan.jpg)
+![Manor House - 1F plan](./03-1f-plan.jpg)
 
-![Main page sketch](./04-2f-plan.jpg)
+![Manor House - 2F plan](./04-2f-plan.jpg)
 
-![Main page sketch](./05-roof.jpg)
+![Manor House - roof plan](./05-roof.jpg)
 
 ## Sections
 
-![Main page sketch](./07-entrance-section.jpg)
+![Manor House - entrance section](./07-entrance-section.jpg)
 
-![Main page sketch](./08-dormer-section.jpg)
+![Manor House - dormer section](./08-dormer-section.jpg)
 
-![Main page sketch](./09-wall-section.jpg)
+![Manor House - wall section](./09-wall-section.jpg)

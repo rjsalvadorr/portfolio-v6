@@ -9,9 +9,11 @@ tags:
   - "research"
 thumbnail: media/uncharted-causeworks/thumb.jpg
 slug: "uncharted-causeworks"
-description: "DARPA research project @ Uncharted Software"
+description: "Research project @ Uncharted Software"
 draft: false
 ---
+
+_Core technologies -- Ember.js, Cytoscape, Node.js, Express, Python, AWS_
 
 I worked at Uncharted Software from Fall 2019 to Spring 2021, and had my first experience on a research project. CauseWorks featured a network graph that helped uncover insights in complex scenarios. CauseWorks is centred around a causal model and causality visualization through a directed graph. With causal factors (nodes) connected by causal relationships (directed edges).
 
@@ -31,8 +33,8 @@ An approach analysis is shown on the side panel. We can see defined user objecti
 
 The system can also find feedback loops in the causal system and display them to the user.
 
-![Feedback loop example](./cw-05-loops.jpg)
+![Feedback loops](./cw-05-loops.jpg)
 
-My main feature contribution to CauseWorks was the integration of a Narratives analysis module, built by researchers at Virginia Tech. This module took an approach and created a descriptive narrative of it.
+My main feature contribution to CauseWorks was the integration of a Narratives analysis module, built by researchers at Virginia Tech. This Python module took an approach and created a descriptive narrative of it.
 
-![Feedback loop example](./cw-09-narratives.jpg)
+![Narratives module](./cw-09-narratives.jpg)
