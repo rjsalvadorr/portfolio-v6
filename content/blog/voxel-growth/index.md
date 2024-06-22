@@ -3,7 +3,7 @@ title: Voxel Growth
 date: 2021-12-28 17:00:00
 category: sketch
 slug: "voxel-growth"
-draft: false
+draft: true
 thumbnail: media/voxel-growth/thumb.jpg
 description: Playing with voxel growth patterns
 ---
