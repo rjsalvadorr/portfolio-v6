@@ -33,7 +33,8 @@ I'm seeking software engineering roles that leverage my tech experience while ma
 
 ### Senior Software Developer, Konrad Group
 
-_Jul 2024 -- Present      Toronto, Canada (Hybrid)  
+_Jul 2024 -- Present  
+Toronto, Canada (Hybrid)  
 Core technologies -- Azure Cognitive Services, Nest_
 
 - Current team is partnered with a financial transaction processor working closely with the "Big Five" Canadian banks.
@@ -42,7 +43,8 @@ Core technologies -- Azure Cognitive Services, Nest_
 
 ### Senior Software Engineer, Autodesk Construction Solutions
 
-_Nov 2022 -- Jan 2024        Toronto, Canada (Remote)  
+_Nov 2022 -- Jan 2024  
+Toronto, Canada (Remote)  
 Core technologies -- React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_
 
 - Worked in the team behind Autodesk Takeoff, a web-based takeoff and estimation tool for 2D sheets and 3D models.
@@ -51,7 +53,8 @@ Core technologies -- React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/F
 
 ### Software Engineer, Uncharted Software
 
-_Nov 2019 -- Apr 2021      Toronto, Canada  
+_Nov 2019 -- Apr 2021  
+Toronto, Canada  
 Core technologies -- Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_
  
 - Worked on Causeworks, a research project featuring graph visualizations that uncovered insights in complex scenarios.
@@ -60,7 +63,8 @@ Core technologies -- Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Dock
 
 ### UI Web Developer, Intelex Technologies
 
-_Jun 2017 -- Feb 2019     Toronto, Canada  
+_Jun 2017 -- Feb 2019  
+Toronto, Canada  
 Core technologies -- React, .NET, SQL Server, Jenkins_ 
 
 - Helped build a new React UI on a legacy app for the EHSQ industry. This allowed health and safety professionals to share industry knowledge about Intelex tools.
@@ -68,7 +72,8 @@ Core technologies -- React, .NET, SQL Server, Jenkins_
 
 ### Technical Developer, Jonah Group
 
-_Sep 2014 -- Nov 2016      Toronto, Canada  
+_Sep 2014 -- Nov 2016  
+Toronto, Canada  
 Core technologies -- jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins_
 
 - Built webpages allowing car dealers to offer online credit applications. This linked their users to a system with 18,000+ dealerships with 1,400+ finance sources.
@@ -80,7 +85,8 @@ Core technologies -- jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, J
 
 ### UX Design Certificate, BrainStation
 
-_Jul 2024 -- Sep 2024     Toronto, Canada  
+_Jul 2024 -- Sep 2024  
+Toronto, Canada  
 Core technologies -- Figma_
 
 - Learned industry-standard processes for UX design (User interviews and testing, Wireframing, UI design, etc).
@@ -88,7 +94,8 @@ Core technologies -- Figma_
 
 ### Continuing Education (Architectural Technology), George Brown College
 
-_Sep 2021 -- Dec 2024      Toronto, Canada  
+_Sep 2021 -- Dec 2024  
+Toronto, Canada  
 Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 - Learned to work with 2D and 3D graphics at a demanding level of precision 
@@ -96,7 +103,8 @@ Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 ### Ontario College Diploma (Computer Programmer), Humber College
 
-_Sep 2012 -- Apr 2014    Toronto, Canada  
+_Sep 2012 -- Apr 2014  
+Toronto, Canada  
 Core technologies -- Java, HTML, CSS, JavaScript, Oracle 11g, Git_
 
 - Learned the fundamental principles of software engineering and how to work well in a team.
