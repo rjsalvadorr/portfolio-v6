@@ -1,116 +1,126 @@
 ---
 title: CV
-date: 2021-12-01 15:00:00
+date: 2025-06-11 15:00:00
 category: page
 slug: "cv"
 draft: false
 ---
 
-# RJ Salvador
+# R. J. Salvador
 
-#### Senior Software Engineer
+#### Software Engineer
 
-[salvador.workshop@gmail.com](mailto:salvador.workshop@gmail.com)  
 [rjsalvadorr.com](https://rjsalvadorr.com)  
+[salvador.workshop@gmail.com](mailto:salvador.workshop@gmail.com)  
+[github.com/salvador-workshop](https://github.com/salvador-workshop)  
 [github.com/rjsalvadorr](https://github.com/rjsalvadorr)  
 [linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr)
 
 ## Objective
 
-I'm seeking software engineering roles that leverage my tech experience while making use of my skills in architecture tech and creative fields. I've been working in tech since 2014 with a strong focus on the front-end, UI and UX, data visualization, and 2D/3D modeling.
-
----
+I'm seeking technical roles where I can leverage my skills in software, architecture, and creative fields. My skill set has a strong focus on front-end web-dev, UI/UX, data visualization, and 2D/3D modelling.
 
 ## Skills and Qualifications
 
-- Experienced with several software platforms and frameworks, having worked in front-end roles (React, Ember), full-stack roles (J2EE, .NET, Python), and some cloud work (Azure). Accustomed to navigating complex codebases and learning unfamiliar tools quickly.
-- Proficient at implementing UI designs to spec and solving UX problems. Has a strong understanding of design processes (Figma, Illustrator, Storybook), and design systems.
-- Has direct experience from all over the software development lifecycle, from kickoff, to delivery, to maintenance. Has leveraged that experience to assess feasibility and help plan project roadmaps.
-
----
+- Experienced with several software platforms and frameworks.<br>Has worked on front-end (React, Ember), full-stack (J2EE, .NET, Python), and cloud (Azure).
+- Proficient at solving UX and design problems with precision.<br>Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM, software, and parametric design.
+- Has experience from all over the software development lifecycle.<br>From kickoff, to delivery, to maintenance. Has assessed feasibility and helped plan project roadmaps.
 
 ## Technical Experience
 
-### Senior Software Developer, Konrad Group
+### Sr. Software Developer — Konrad Group
 
-_Jul 2024 -- Present  
+_Jul 2024 — Nov 2024  
 Toronto, Canada (Hybrid)  
-Core technologies -- Azure Cognitive Services, Nest_
+Core technologies — Azure Cognitive Services for computer vision and document parsing, NestJS_
 
-- Current team is partnered with a financial transaction processor working closely with the "Big Five" Canadian banks.
-- Maintaining and upgrading cloud apps that leverage Azure's Cognitive Services for fraud detection and verification.
-- Building out API extension points that support more client needs while supporting interoperability with heterogenous systems.
+- Partnered with a financial transaction processor working closely with the "Big Five" Canadian banks.
+- Upgraded cloud apps which leverage Azure Cognitive Services for anti-fraud verification.
 
-### Senior Software Engineer, Autodesk Construction Solutions
+### Sr. Software Engineer — Autodesk Construction Solutions
 
-_Nov 2022 -- Jan 2024  
+_Nov 2022 — Jan 2024  
 Toronto, Canada (Remote)  
-Core technologies -- React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_
+Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_
 
-- Worked in the team behind Autodesk Takeoff, a web-based takeoff and estimation tool for 2D sheets and 3D models.
-- Focused on improving the app's UX through implementing new functionality, reworking existing elements, or refactoring under the hood.
-- Leveraged in-house component libraries to build UI modules. Collaborated with design system experts to keep implementation consistent with the overall Autodesk Construction Cloud platform.
+- Worked on Autodesk Takeoff, an online construction estimation tool for 2D sheets and 3D models.
+- Leveraged in-house component libraries to build, extend, and maintain UI modules.
+- Kept our UX consistent with the Autodesk Cloud platform, working with experts where needed.
 
-### Software Engineer, Uncharted Software
+### Sr. Associate (Experience Technology) — Publicis Sapient
 
-_Nov 2019 -- Apr 2021  
+_May 2022 — Sep 2022  
+Toronto, Canada (Remote)  
+Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_
+
+- Helped lay the technical foundations of a forward-looking app for a leading healthcare provider.
+- These foundations allowed for rapid development even while dependent assets lagged in delivery.
+
+### Software Engineer — Uncharted Software
+
+_Nov 2019 — Apr 2021  
 Toronto, Canada  
-Core technologies -- Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_
- 
-- Worked on Causeworks, a research project featuring graph visualizations that uncovered insights in complex scenarios.
-- Integrated a graph analysis module developed at Virginia Tech. This module described a scenario model with natural language for less technical users.
-- Reworked front-end components to align the UI closer to the company design system, reduce UX jankiness, and render visual data more effectively.
+Core technologies — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_
 
-### UI Web Developer, Intelex Technologies
+- Worked on Causeworks, a research app for understanding scenarios through graph analysis.
+- Integrated analysis modules from several third parties, including Virginia Tech researchers
+- Reworked the front-end to align the UI to our design system, and render data more effectively.
 
-_Jun 2017 -- Feb 2019  
+### UI Web Developer — Intelex Technologies
+
+_Jun 2017 — Feb 2019  
 Toronto, Canada  
-Core technologies -- React, .NET, SQL Server, Jenkins_ 
+Core technologies — React, .NET, SQL Server, Jenkins_
 
-- Helped build a new React UI on a legacy app for the EHSQ industry. This allowed health and safety professionals to share industry knowledge about Intelex tools.
-- Focused on code quality standards as the codebase grew. Appointed to a working group that wrote guidelines for code style and structure, which proved useful in refactoring.
+- Built a React UI on a legacy app allowing health and safety professionals to share best practices.
+- Focused on standards over time. Appointed to a group that wrote guidelines for code structure.
 
-### Technical Developer, Jonah Group
+### Technical Developer — Jonah Group
 
-_Sep 2014 -- Nov 2016  
+_Sep 2014 — Oct 2016  
 Toronto, Canada  
-Core technologies -- jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins_
+Core technologies — jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins, Backbone.js, Marionette.js_
 
-- Built webpages allowing car dealers to offer online credit applications. This linked their users to a system with 18,000+ dealerships with 1,400+ finance sources.
-- Ensured that webpages conformed to the responsive visual specs, and is usable on several browsers and devices.
+- Built credit app. sites for car dealers, linking users to 18,000+ dealers with 1,400+ finance sources.
+- Ensured that webpages conformed to the visual specs (responsive, cross-browser, cross-platform).
 
----
+## Projects
 
-## Technical Education
+### sw-jscad — Salvador Workshop
 
-### UX Design Certificate, BrainStation
-
-_Jul 2024 -- Sep 2024  
+_Jan 2025 — Present  
 Toronto, Canada  
-Core technologies -- Figma_
+Core skills — npm, 3D Modeling, CAD/CAM Software, Open Source Development_
 
-- Learned industry-standard processes for UX design (User interviews and testing, Wireframing, UI design, etc).
-- Implemented the full UX process in a final project: designing an app for community volunteering.
+- sw-jscad is an NPM library that extends JSCAD to create 2D and 3D designs with JavaScript.
+- The library is in active development to support design efforts for my family's side business.
 
-### Continuing Education (Architectural Technology), George Brown College
+## Education
 
-_Sep 2021 -- Dec 2024  
+### UX Design Certificate — BrainStation
+
+_Jul 2024 — Sep 2024  
 Toronto, Canada  
-Core technologies -- Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
+Core skills — Figma, Web Design Theory, Design Systems_
 
-- Learned to work with 2D and 3D graphics at a demanding level of precision 
-- Helped start a student network for architectural/interior design students (Designer/Webmaster, Architectural Studies Collective)
+- Learned industry-standard processes for UX design (interviews, testing, wireframing, visuals, etc).
 
-### Ontario College Diploma (Computer Programmer), Humber College
+### Certificate (Architectural Tech.) — George Brown College
 
-_Sep 2012 -- Apr 2014  
+_Sep 2021 — Apr 2024  
 Toronto, Canada  
-Core technologies -- Java, HTML, CSS, JavaScript, Oracle 11g, Git_
+Core skills — Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
+
+- Learned to create 2D/3D models to industry standards, plus architectural theory and bldg. science
+
+### Ontario College Diploma (Computer Programmer) — Humber College
+
+_Sep 2012 — Apr 2014  
+Toronto, Canada  
+Core skills — Java, HTML, CSS, JavaScript, Oracle 11g, Git_
 
 - Learned the fundamental principles of software engineering and how to work well in a team.
 
----
-
 ## About Me
 
-When I'm away from work, I'm usually playing music (guitar/choir/cello), hanging out at a climbing gym, or volunteering at church.
+When I'm away from work, I'm usually playing music (guitar/choir/cello), hanging out at a climbing gym, or being active in church.
