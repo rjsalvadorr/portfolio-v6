@@ -22,15 +22,17 @@ I'm seeking technical roles where I can leverage my skills in software, architec
 
 ## Skills and Qualifications
 
-- Experienced with several software platforms and frameworks.<br>Has worked on front-end (React, Ember), full-stack (J2EE, .NET, Python), and cloud (Azure).
-- Proficient at solving UX and design problems with precision.<br>Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM, software, and parametric design.
-- Has experience from all over the software development lifecycle.<br>From kickoff, to delivery, to maintenance. Has assessed feasibility and helped plan project roadmaps.
+_**Experienced with several software platforms and frameworks.**_<br/>Has worked on front-end (React, Ember), full-stack (J2EE, .NET, Python), and cloud (Azure).
+
+_**Proficient at solving UX and design problems with precision.**_<br/>Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM, software, and parametric design.
+
+_**Has experience from all over the software development lifecycle.**_<br/>From kickoff, to delivery, to maintenance. Has assessed feasibility and helped plan project roadmaps.
 
 ## Technical Experience
 
 ### Sr. Software Developer — Konrad Group
 
-_Jul 2024 — Nov 2024  
+_**Jul 2024 — Nov 2024**  
 Toronto, Canada (Hybrid)  
 Core technologies — Azure Cognitive Services for computer vision and document parsing, NestJS_
 
@@ -39,7 +41,7 @@ Core technologies — Azure Cognitive Services for computer vision and document 
 
 ### Sr. Software Engineer — Autodesk Construction Solutions
 
-_Nov 2022 — Jan 2024  
+_**Nov 2022 — Jan 2024**  
 Toronto, Canada (Remote)  
 Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_
 
@@ -49,7 +51,7 @@ Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/
 
 ### Sr. Associate (Experience Technology) — Publicis Sapient
 
-_May 2022 — Sep 2022  
+_**May 2022 — Sep 2022**  
 Toronto, Canada (Remote)  
 Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_
 
@@ -58,7 +60,7 @@ Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_
 
 ### Software Engineer — Uncharted Software
 
-_Nov 2019 — Apr 2021  
+_**Nov 2019 — Apr 2021**  
 Toronto, Canada  
 Core technologies — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_
 
@@ -68,7 +70,7 @@ Core technologies — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Doc
 
 ### UI Web Developer — Intelex Technologies
 
-_Jun 2017 — Feb 2019  
+_**Jun 2017 — Feb 2019**  
 Toronto, Canada  
 Core technologies — React, .NET, SQL Server, Jenkins_
 
@@ -77,7 +79,7 @@ Core technologies — React, .NET, SQL Server, Jenkins_
 
 ### Technical Developer — Jonah Group
 
-_Sep 2014 — Oct 2016  
+_**Sep 2014 — Oct 2016**  
 Toronto, Canada  
 Core technologies — jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins, Backbone.js, Marionette.js_
 
@@ -88,7 +90,7 @@ Core technologies — jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, 
 
 ### sw-jscad — Salvador Workshop
 
-_Jan 2025 — Present  
+_**Jan 2025 — Present**  
 Toronto, Canada  
 Core skills — npm, 3D Modeling, CAD/CAM Software, Open Source Development_
 
@@ -99,7 +101,7 @@ Core skills — npm, 3D Modeling, CAD/CAM Software, Open Source Development_
 
 ### UX Design Certificate — BrainStation
 
-_Jul 2024 — Sep 2024  
+_**Jul 2024 — Sep 2024**  
 Toronto, Canada  
 Core skills — Figma, Web Design Theory, Design Systems_
 
@@ -107,7 +109,7 @@ Core skills — Figma, Web Design Theory, Design Systems_
 
 ### Certificate (Architectural Tech.) — George Brown College
 
-_Sep 2021 — Apr 2024  
+_**Sep 2021 — Apr 2024**  
 Toronto, Canada  
 Core skills — Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
@@ -115,7 +117,7 @@ Core skills — Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_
 
 ### Ontario College Diploma (Computer Programmer) — Humber College
 
-_Sep 2012 — Apr 2014  
+_**Sep 2012 — Apr 2014**  
 Toronto, Canada  
 Core skills — Java, HTML, CSS, JavaScript, Oracle 11g, Git_
 
