@@ -65,7 +65,7 @@ Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_
 
 _**Nov 2019 — Apr 2021**  
 Toronto, Canada  
-Core technologies** — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_      
+Core technologies — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_      
 
 - Worked on Causeworks, a research app for understanding scenarios through graph analysis.
 - Integrated analysis modules from several third parties, including Virginia Tech researchers
@@ -75,7 +75,7 @@ Core technologies** — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, D
 
 _**Jun 2017 — Feb 2019**  
 Toronto, Canada  
-Core technologies** — React, .NET, SQL Server, Jenkins_      
+Core technologies — React, .NET, SQL Server, Jenkins_      
 
 - Built a React UI on a legacy app allowing health and safety professionals to share best practices.
 - Focused on standards over time. Appointed to a group that wrote guidelines for code structure.
@@ -84,7 +84,7 @@ Core technologies** — React, .NET, SQL Server, Jenkins_
 
 _**Sep 2014 — Oct 2016**  
 Toronto, Canada  
-Core technologies** — jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins, Backbone.js, Marionette.js_      
+Core technologies — jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins, Backbone.js, Marionette.js_      
 
 - Built credit app. sites for car dealers, linking users to 18,000+ dealers with 1,400+ finance sources.
 - Ensured that webpages conformed to the visual specs (responsive, cross-browser, cross-platform).
