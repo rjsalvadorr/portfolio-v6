@@ -116,7 +116,7 @@ _**Sep 2021 — Apr 2024**
 Toronto, Canada  
 Core skills — Revit, AutoCAD, Sketchup, Adobe Illustrator & Photoshop_      
 
-- Learned to create 2D/3D models to industry standards, plus architectural theory and bldg. science
+- Learned to create 2D/3D models to industry standards, plus architectural theory and building science.
 
 ### Ontario College Diploma _(Computer Programmer)_ — _Humber College_
 
