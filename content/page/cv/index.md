@@ -23,40 +23,40 @@ I'm seeking technical roles where I can leverage my skills in software, architec
 ## Skills & Qualifications
 
 **Experienced with several software platforms and frameworks.**  
-Has worked on front-end (React, Ember), full-stack (J2EE, .NET, Python), and cloud (Azure).
+Has worked on front-end (React, Ember), full-stack (J2EE, .NET, Python), and cloud (Azure).        
 
 **Solves UX and design problems with precision.**  
-Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM tools and parametric design.
+Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM tools and parametric design.        
 
 **Has valuable experience from all over the software development lifecycle.**  
-From planning to kickoff, development, delivery, and maintenance.
+From planning to kickoff, development, delivery, and maintenance.      
 
 ## Technical Experience
 
-### Sr. Software Developer — _Konrad Group_
+### Senior Software Developer — _Konrad Group_
 
 _**Jul 2024 — Nov 2024**  
 Toronto, Canada (Hybrid)  
-Core technologies — Azure Cognitive Services for computer vision and document parsing, NestJS_
+Core technologies — Azure Cognitive Services for computer vision and document parsing, NestJS_      
 
 - Partnered with a financial transaction processor working closely with the "Big Five" Canadian banks.
 - Upgraded cloud apps which leverage Azure Cognitive Services for anti-fraud verification.
 
-### Sr. Software Engineer — _Autodesk Construction Solutions_
+### Senior Software Engineer — _Autodesk Construction Solutions_
 
 _**Nov 2022 — Jan 2024**  
 Toronto, Canada (Remote)  
-Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_
+Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_      
 
 - Worked on Autodesk Takeoff, an online construction estimation tool for 2D sheets and 3D models.
 - Leveraged in-house component libraries to build, extend, and maintain UI modules.
 - Kept our UX consistent with the Autodesk Cloud platform, working with experts where needed.
 
-### Sr. Associate _(Experience Technology)_ — _Publicis Sapient_
+### Senior Associate _(Experience Technology)_ — _Publicis Sapient_
 
 _**May 2022 — Sep 2022**  
 Toronto, Canada (Remote)  
-Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_
+Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_      
 
 - Helped lay the technical foundations of a forward-looking app for a leading healthcare provider.
 - These foundations allowed for rapid development even while dependent assets lagged in delivery.
@@ -84,7 +84,7 @@ Core technologies — React, .NET, SQL Server, Jenkins_
 
 _**Sep 2014 — Oct 2016**  
 Toronto, Canada  
-Core technologies — jQuery, Java/J2EE, Struts, Spring, Hibernate, Oracle 11g, Jenkins, Backbone.js, Marionette.js_      
+Core technologies — Java/J2EE, Spring, Struts, Hibernate, Oracle 11g, jQuery, Backbone.js, Marionette.js, Jenkins_      
 
 - Built credit app. sites for car dealers, linking users to 18,000+ dealers with 1,400+ finance sources.
 - Ensured that webpages conformed to the visual specs (responsive, cross-browser, cross-platform).
