@@ -22,14 +22,14 @@ I'm seeking technical roles where I can leverage my skills in software, architec
 
 ## Skills & Qualifications
 
-_**Experienced with several software platforms and frameworks.**_  
+**Experienced with several software platforms and frameworks.**  
 Has worked on front-end (React, Ember), full-stack (J2EE, .NET, Python), and cloud (Azure).
 
-_**Proficient at solving UX and design problems with precision.**_  
-Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM, software, and parametric design.
+**Solves UX and design problems with precision.**  
+Has a strong understanding of design systems, processes, and tools. Plus skills with drafting/BIM tools and parametric design.
 
-_**Has experience from all over the software development lifecycle.**_  
-From kickoff, to delivery, to maintenance. Has assessed feasibility and helped plan project roadmaps.      
+**Has valuable experience from all over the software development lifecycle.**  
+From planning to kickoff, development, delivery, and maintenance.
 
 ## Technical Experience
 
@@ -134,7 +134,7 @@ _**Oct 2024 — Present**
 Toronto, Canada  
 Skills — Vocal and choral musicianship, Gregorian chant, Latin language_      
 
-- Serving my community by reconnecting parishioners with ancient Catholic musical traditions.
+- Serving my community by reconnecting parishioners with ancient Catholic liturgies and hymns.
 - Duties involve singing with the choir at masses, leading chants during communal prayer, etc.
 
 ## About Me
