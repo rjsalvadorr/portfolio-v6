@@ -3,9 +3,9 @@ title: sw-jscad
 subtitle:
 date: 2025-06-18 17:28:30
 template: post
-category: work
+category: project
 tags:
-  - "work"
+  - "project"
   - "architecture"
   - "construction"
 thumbnail: media/sw-jscad/thumb.jpg
