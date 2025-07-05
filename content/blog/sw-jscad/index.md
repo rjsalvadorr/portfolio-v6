@@ -68,11 +68,9 @@ The library can output 2D and 3D designs of things like:
 
 and a variety of other functions that make JSCAD modelling easier
 
-![sw-jscad demo - gallery (light)](./gallery-1.png "sw-jscad demo - gallery (light)")
+![sw-jscad demo - gallery](./gallery-3.jpg "sw-jscad demo - gallery")
 
-![sw-jscad demo - gallery (dark)](./gallery-2.png "sw-jscad demo - gallery (dark)")
-
-Here's a small sample of a few specific model types:
+Here's a small sample of model types:
 
 ### Walls
 
@@ -80,7 +78,17 @@ Here's a small sample of a few specific model types:
 The dado ornamentation respects changes in thickness between the lower and upper portions of the wall.
 The height of the thickness change can be specified as well.
 
-![sw-jscad demo - wall](./wall-1.png "sw-jscad demo - wall")
+![sw-jscad demo - wall](./wall-2.jpg "sw-jscad demo - wall")
+
+### Arches, Foils
+
+One-point(circular) and Two-point (gothic) arches
+
+![sw-jscad demo - arch](./arch-1.jpg "sw-jscad demo - arch")
+
+2D and 3D foil designs
+
+![sw-jscad demo - foils](./foils-1.jpg "sw-jscad demo - foils")
 
 ### Entryways
 
@@ -88,10 +96,28 @@ Entryways combine a wall with an arched opening, in this case a gothic arch.
 The builder ensures a smooth transition no matter what moulding choices and wall
 options were made.
 
-![sw-jscad demo - entryways](./entryways-1.png "sw-jscad demo - entryways")
+![sw-jscad demo - entryways](./entryways-2.jpg "sw-jscad demo - entryways")
 
-### Small models
+### Mesh primitives (panel, cuboid, cylinder)
 
-Here I'm designing a pegboard-to-surface mount and something similar for mounting something under a floor joist.
+Panels with configurable mesh pattern:
 
-![sw-jscad demo - models](./models-1.png "sw-jscad demo - models")
+![sw-jscad demo - mesh-panel](./mesh-panel-1.jpg "sw-jscad demo - mesh-panel")
+
+Cuboid built with said panels:
+
+![sw-jscad demo - mesh-cuboid](./mesh-cuboid-1.jpg "sw-jscad demo - mesh-cuboid")
+
+Cylinder with similar ideas
+
+![sw-jscad demo - mesh-cylinder](./mesh-cylinder-1.jpg "sw-jscad demo - mesh-cylinder")
+
+### Misc
+
+Here I'm designing a pegboard-to-surface mount and something similar for mounting something under a floor joist
+
+![sw-jscad demo - models](./models-2.jpg "sw-jscad demo - models")
+
+A more advanced idea - creating joists using dowels:
+
+![sw-jscad demo - joists](./joists-1.jpg "sw-jscad demo - joists")
