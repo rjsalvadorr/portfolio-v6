@@ -20,6 +20,8 @@ I started writing this library in the start of 2025, and found it to be a great 
 But more importantly, this project allowed me to learn about developing a library for public consumption. And it gave me a
 tiny glimpse into the design decisions library designers and maintainers have to make regularly.  
 
+![sw-jscad demo - gallery](./gallery-3.jpg "sw-jscad demo - gallery")
+
 ## Tech
 
 ### Key Stats
@@ -66,11 +68,7 @@ The library can output 2D and 3D designs of things like:
 - walls
 - roofs
 
-and a variety of other functions that make JSCAD modelling easier
-
-![sw-jscad demo - gallery](./gallery-3.jpg "sw-jscad demo - gallery")
-
-Here's a small sample of model types:
+and a variety of other functions that make JSCAD modelling easier.
 
 ### Walls
 
