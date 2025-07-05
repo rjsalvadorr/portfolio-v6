@@ -49,8 +49,8 @@ Toronto, Canada (Remote)
 Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_      
 
 - Worked on Autodesk Takeoff, an online construction estimation tool for 2D sheets and 3D models.
-- Leveraged in-house component libraries to build, extend, and maintain UI modules.
-- Kept our UX consistent with the Autodesk Cloud platform, working with experts where needed.
+- Focused on enhancing and maintaining the React front-end, particularly the 3D model viewer.
+- Leveraged in-house design system and component library to build and extend UI modules.
 
 ### Senior Associate _(Experience Technology)_ — _Publicis Sapient_
 
@@ -58,7 +58,7 @@ _**May 2022 — Sep 2022**
 Toronto, Canada (Remote)  
 Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_      
 
-- Helped lay the technical foundations of a forward-looking app for a leading healthcare provider.
+- Helped lay the technical foundations of a Next.js + AEM app for a leading healthcare provider.
 - These foundations allowed for rapid development even while dependent assets lagged in delivery.
 
 ### Software Engineer — _Uncharted Software_
@@ -68,7 +68,7 @@ Toronto, Canada
 Core technologies — Ember.js, Cytoscape, Node.js, Express.js, Python, AWS, Docker Microservices_      
 
 - Worked on Causeworks, a research app for understanding scenarios through graph analysis.
-- Integrated analysis modules from several third parties, including Virginia Tech researchers
+- Integrated external analysis modules, such as a Python module from Virginia Tech researchers
 - Reworked the front-end to align the UI to our design system, and render data more effectively.
 
 ### UI Web Developer — _Intelex Technologies_
