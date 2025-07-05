@@ -3,7 +3,7 @@ title: COA Logos
 date: 2021-12-02 19:00:01
 category: design
 slug: "coa-logos"
-draft: false
+draft: true
 thumbnail: media/coa-logos/thumb.png
 description: Personal logos, inspired by coats of arms
 ---
