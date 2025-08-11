@@ -49,7 +49,7 @@ Toronto, Canada (Remote)
 Core technologies — React, Node.js, Typescript, Storybook, Revit, ADSK Viewer/Forge/LMV_      
 
 - Worked on Autodesk Takeoff, an online construction estimation tool for 2D sheets and 3D models.
-- Focused on enhancing and maintaining the React front-end, particularly the 3D model viewer.
+- Enhanced and maintained the React front-end and 3D model viewer.
 - Leveraged in-house design system and component library to build and extend UI modules.
 
 ### Senior Associate _(Experience Technology)_ — _Publicis Sapient_
@@ -59,7 +59,6 @@ Toronto, Canada (Remote)
 Core technologies — React, Next.js, Nx, Typescript, Storybook, AEM_      
 
 - Helped lay the technical foundations of a Next.js + AEM app for a leading healthcare provider.
-- These foundations allowed for rapid development even while dependent assets lagged in delivery.
 
 ### Software Engineer — _Uncharted Software_
 
@@ -91,14 +90,21 @@ Core technologies — Java/J2EE, Spring, Struts, Hibernate, Oracle 11g, jQuery, 
 
 ## Projects
 
+### Editoris Melicorum _(EMEL)_ — _Guild of St. Isidore (TO)_
+
+_**Jun 2025 — Present**  
+Toronto, Canada  
+Core skills — Python, LilyPond, Gregorio/GABC, Open Source Dev't_      
+
+- EMEL is an open source music typesetting tool for Catholic parishes, specializing in Gregorian chant.
+
 ### sw-jscad — _Salvador Workshop_
 
 _**Jan 2025 — Present**  
 Toronto, Canada  
-Core skills — npm, 3D Modeling, CAD/CAM Software, Open Source Development_      
+Core skills — npm, 3D Modeling, CAD/CAM Software, Open Source Dev't_      
 
-- sw-jscad is an NPM library that extends JSCAD to create 2D and 3D designs with JavaScript.
-- The library is in active development to support design efforts for my family's side business.
+- sw-jscad is an open source library that extends JSCAD to create 2D and 3D designs with JavaScript.
 
 ## Education
 
@@ -134,9 +140,8 @@ _**Oct 2024 — Present**
 Toronto, Canada  
 Skills — Vocal and choral musicianship, Gregorian chant, Latin language_      
 
-- Serving my community by reconnecting parishioners with ancient Catholic liturgies and hymns.
-- Duties involve singing with the choir at masses, leading chants during communal prayer, etc.
+- Serving my community by singing with the choir in mass, and chanting during communal prayer.
 
 ## About Me
 
-When I'm away from work, I'm usually playing music (guitar/choir/cello), hanging out at a climbing gym, or being active in church.
+Away from work, I'm usually playing/writing music, designing something, or hanging out at church.
