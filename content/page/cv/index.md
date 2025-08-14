@@ -102,7 +102,7 @@ Core skills — System Design, API Design, Docker Microservices, DevOps, JavaScr
 
 _**Jan 2025 — Present**  
 Toronto, Canada  
-Core skills — npm, 3D Modeling, CAD/CAM Software, Open Source Dev't_      
+Core skills — 3D Modeling, CAD/CAM Software, Library/Package Design, JavaScript, NPM Ecoystem, Open Source Dev't_      
 
 - sw-jscad is an open source library that extends JSCAD to create 2D and 3D designs with JavaScript.
 
