@@ -12,7 +12,7 @@ draft: false
 
 [rjsalvadorr.com](https://rjsalvadorr.com)  
 [salvador.workshop@gmail.com](mailto:salvador.workshop@gmail.com)  
-[github.com/salvador-workshop](https://github.com/salvador-workshop)  
+[github.com/guild-st-isidore-TO](https://github.com/guild-st-isidore-TO)  
 [github.com/rjsalvadorr](https://github.com/rjsalvadorr)  
 [linkedin.com/in/rjsalvadorr](https://www.linkedin.com/in/rjsalvadorr)
 
@@ -90,13 +90,13 @@ Core technologies — Java/J2EE, Spring, Struts, Hibernate, Oracle 11g, jQuery, 
 
 ## Projects
 
-### Editoris Melicorum _(EMEL)_ — _Guild of St. Isidore (TO)_
+### Fabrica Virtualis _(FAVI)_ — _Guild of St. Isidore (TO)_
 
 _**Jun 2025 — Present**  
 Toronto, Canada  
-Core skills — Python, LilyPond, Gregorio/GABC, Open Source Dev't_      
+Core skills — System Design, API Design, Docker Microservices, DevOps, JavaScript, Python, PyPI Ecosystem, Open Source Dev't_
 
-- EMEL is an open source music typesetting tool for Catholic parishes, specializing in Gregorian chant.
+- FAVI is an open source toolkit for Catholic parishes, creative ministries, musicians, and artists.
 
 ### sw-jscad — _Salvador Workshop_
 
