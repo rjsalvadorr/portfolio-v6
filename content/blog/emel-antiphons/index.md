@@ -63,7 +63,7 @@ _SOURCE: Wikipedia / Wikimedia Commons_
 ### 2017
 
 The Parish Book of Chant, Expanded Second Edition (Revised Version 2017)  
-_SOURCE: Church Music Association of America__  
+_SOURCE: Church Music Association of America_  
 
 ![Generic image desc](./salve-regina-03.jpg)
 
