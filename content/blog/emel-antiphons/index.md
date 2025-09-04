@@ -8,7 +8,7 @@ tags:
   - "project"
   - "music"
   - "sacred"
-thumbnail: media/emel-antiphons/thumb.jpg
+thumbnail: media/emel-antiphons/thumb.png
 slug: "emel-01"
 description: "GSI's music typesetting tools"
 draft: false
